@@ -3,15 +3,14 @@ import openpyxl as opxl
 import os
 
 # ---- This script calculates exposure from Streetlight data. ----
-os.chdir("src/streetlight_Data") # change to directory with streetlight data
-
 
 # for each "before" project...
-os.chdir("before")
-for file in os.listdir():
+os.chdir("streetlight_Data/before")
+for folder in os.listdir():
 
     # open csv
-    sip_data = pd.read_csv(file)
+    os.chdir(folder)
+
 
     # add Peak AM and Peak PM entries to a dictionary
 
