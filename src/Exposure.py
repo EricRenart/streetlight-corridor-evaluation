@@ -15,27 +15,34 @@ def prettyprint(stl_dataframe):
     tabulate_header = ['ID', 'DESTINATION', 'MIDDLE FILTER', 'DAY PART', 'OMD TRAFFIC']
     print(tabulate(stl_dataframe, headers=tabulate_header, tablefmt='psql'))
 
-def isDMF(string):
-    if string.__contains__("DMF"): return True
-    else: return False
+# Return DMF traffic
+def getDMFs(df):
+    return df[df[HEADER_MF].str.contains("DMF")]
 
-# for each "before" project...
-# open a file chooser to pick the before csv
+# Get total DMF traffic by destination
+def sumDMF(df):
+    dmfs = getDMFs(df)
+    sumdmf = dmfs.groupby(HEADER_MF).sum()
+    print(tabulate(sumdmf))
+    return sumdmf
+
+# --- for each "before" project... ---
+# ---open a file chooser to pick the before csv ---
 before_path = askopenfilename(title='Choose before csv:')
 print('CSV selected: '+before_path)
 
-# open a file chooser again to pick the corresponding "after" csv
+# --- open a file chooser again to pick the corresponding "after" csv ---
 after_path = askopenfilename(title='Choose after csv:')
 print('CSV selected: '+after_path)
 
-# open csv's
+# --- open csv's ---
 before_dataframe = pd.read_csv(before_path)
 after_dataframe = pd.read_csv(after_path)
 
-# filter out "All Days: and "All Day" day types/day parts
+# --- filter out "All Days: and "All Day" day types/day parts ---
 before_dataframe_weekday = before_dataframe[before_dataframe[HEADER_DAY_TYPE] == "1: Weekday (Tu-Th)"]
 
-# get the weekday AM and PM OMD traffic
+# --- get the weekday AM and PM OMD traffic ---
 OMD_traffic_weekday = before_dataframe_weekday[[HEADER_DEST,HEADER_MF,HEADER_DAY_PART,HEADER_DAY_TYPE,HEADER_OMD]]
 OMD_traffic_AM = OMD_traffic_weekday[OMD_traffic_weekday[HEADER_DAY_PART] == "1: Peak AM (7am-10am)"]
 OMD_traffic_PM = OMD_traffic_weekday[OMD_traffic_weekday[HEADER_DAY_PART] == "2: Peak PM (4pm-7pm)"]
@@ -44,18 +51,17 @@ print(tabulate(OMD_traffic_AM))
 print('PM OMD TRAFFIC')
 print(tabulate(OMD_traffic_PM))
 
-# sum the DMF traffic for each destination
-# get all rows which contain DMF
-am_dmfs = OMD_traffic_AM[OMD_traffic_AM[HEADER_MF].str.contains("DMF")]
-pm_dmfs = OMD_traffic_PM[OMD_traffic_PM[HEADER_MF].str.contains("DMF")]
+# --- sum the DMF traffic for each destination ---
 
-print(tabulate(am_dmfs))
-print(tabulate(pm_dmfs))
+# get all rows which contain DMF and sum
 
-am_dmf_sum = am_dmfs.groupby(HEADER_MF).sum()
-print(tabulate(am_dmf_sum))
+print('TOTAL AM DMF TRAFFIC')
+am_dmf_sum = sumDMF(OMD_traffic_AM)
+print('TOTAL PM DMF TRAFFIC')
+pm_dmf_sum = sumDMF(OMD_traffic_PM)
 
-# calculate exposure: ExpIndex = MF_i/DMF_i
+# --- calculate exposure: ExpIndex = MF_i/DMF_i ---
+
 # do the same for the "After" condition
 
 # for each MF in each destination in each project, subtract each "After" exposure index from each "Before" exposure index to get the change in exposure
