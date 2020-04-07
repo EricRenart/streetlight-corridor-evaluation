@@ -1,0 +1,10 @@
+Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Fingerprint1,Fingerprint2
+Origin,,Baychester Ave/E233 St,yes,N/A,no,0,911891348654400
+Middle Filter,,Baychester Ave DMF,yes,343,no,0,911848399083760
+Middle Filter,,Baychester Ave/Pitman Ave,yes,345,no,0,911863431434500
+Middle Filter,,Baychester Ave/Strang Ave,yes,346,no,0,911887053699344
+Middle Filter,,Wilder Ave DMF,yes,338,no,0,911863431473370
+Middle Filter,,Wilder Ave/Pitman Ave,yes,344,no,0,911878463822042
+Middle Filter,,Wilder Ave/Strang Ave,yes,342,no,0,911902086086892
+Destination,,Baychester Ave NB,yes,342,no,0,911848399087872
+Destination,,Wilder Ave NB,yes,339,no,0,911861283991794

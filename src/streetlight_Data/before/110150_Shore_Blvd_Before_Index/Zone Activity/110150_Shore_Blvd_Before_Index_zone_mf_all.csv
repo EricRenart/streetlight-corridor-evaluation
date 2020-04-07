@@ -1,0 +1,79 @@
+Type of Travel,Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index)
+Personal,Origin,,Shore Blvd/Ditmars Blvd,yes,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3548
+Personal,Origin,,Shore Blvd/Ditmars Blvd,yes,N/A,no,0: All Days (M-Su),1: Peak AM (7am-10am),487
+Personal,Origin,,Shore Blvd/Ditmars Blvd,yes,N/A,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),987
+Personal,Origin,,Shore Blvd/Ditmars Blvd,yes,N/A,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3313
+Personal,Origin,,Shore Blvd/Ditmars Blvd,yes,N/A,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),606
+Personal,Origin,,Shore Blvd/Ditmars Blvd,yes,N/A,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),862
+Personal,Middle Filter,,14st DMF,yes,201,no,0: All Days (M-Su),0: All Day (12am-12am),2611
+Personal,Middle Filter,,14st DMF,yes,201,no,0: All Days (M-Su),1: Peak AM (7am-10am),531
+Personal,Middle Filter,,14st DMF,yes,201,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),475
+Personal,Middle Filter,,14st DMF,yes,201,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2879
+Personal,Middle Filter,,14st DMF,yes,201,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),641
+Personal,Middle Filter,,14st DMF,yes,201,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),491
+Personal,Middle Filter,,19st SB,yes,225,no,0: All Days (M-Su),0: All Day (12am-12am),1213
+Personal,Middle Filter,,19st SB,yes,225,no,0: All Days (M-Su),1: Peak AM (7am-10am),107
+Personal,Middle Filter,,19st SB,yes,225,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),307
+Personal,Middle Filter,,19st SB,yes,225,no,1: Weekday (Tu-Th),0: All Day (12am-12am),1026
+Personal,Middle Filter,,19st SB,yes,225,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),74
+Personal,Middle Filter,,19st SB,yes,225,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),240
+Personal,Middle Filter,,21st DMF,yes,212,no,0: All Days (M-Su),0: All Day (12am-12am),22659
+Personal,Middle Filter,,21st DMF,yes,212,no,0: All Days (M-Su),1: Peak AM (7am-10am),5045
+Personal,Middle Filter,,21st DMF,yes,212,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3487
+Personal,Middle Filter,,21st DMF,yes,212,no,1: Weekday (Tu-Th),0: All Day (12am-12am),24456
+Personal,Middle Filter,,21st DMF,yes,212,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),6320
+Personal,Middle Filter,,21st DMF,yes,212,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3362
+Personal,Middle Filter,,21St past 24Rd,yes,223,no,0: All Days (M-Su),0: All Day (12am-12am),11292
+Personal,Middle Filter,,21St past 24Rd,yes,223,no,0: All Days (M-Su),1: Peak AM (7am-10am),2446
+Personal,Middle Filter,,21St past 24Rd,yes,223,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1997
+Personal,Middle Filter,,21St past 24Rd,yes,223,no,1: Weekday (Tu-Th),0: All Day (12am-12am),12133
+Personal,Middle Filter,,21St past 24Rd,yes,223,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3146
+Personal,Middle Filter,,21St past 24Rd,yes,223,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1957
+Personal,Middle Filter,,21St SB past Ditmars,yes,224,no,0: All Days (M-Su),0: All Day (12am-12am),8600
+Personal,Middle Filter,,21St SB past Ditmars,yes,224,no,0: All Days (M-Su),1: Peak AM (7am-10am),1972
+Personal,Middle Filter,,21St SB past Ditmars,yes,224,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1461
+Personal,Middle Filter,,21St SB past Ditmars,yes,224,no,1: Weekday (Tu-Th),0: All Day (12am-12am),9258
+Personal,Middle Filter,,21St SB past Ditmars,yes,224,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2637
+Personal,Middle Filter,,21St SB past Ditmars,yes,224,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1292
+Personal,Middle Filter,,Hoyt Ave N,yes,155,no,0: All Days (M-Su),0: All Day (12am-12am),1779
+Personal,Middle Filter,,Hoyt Ave N,yes,155,no,0: All Days (M-Su),1: Peak AM (7am-10am),172
+Personal,Middle Filter,,Hoyt Ave N,yes,155,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),383
+Personal,Middle Filter,,Hoyt Ave N,yes,155,no,1: Weekday (Tu-Th),0: All Day (12am-12am),1411
+Personal,Middle Filter,,Hoyt Ave N,yes,155,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),160
+Personal,Middle Filter,,Hoyt Ave N,yes,155,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),245
+Personal,Middle Filter,,Hoyt S DMF,yes,127,no,0: All Days (M-Su),0: All Day (12am-12am),19526
+Personal,Middle Filter,,Hoyt S DMF,yes,127,no,0: All Days (M-Su),1: Peak AM (7am-10am),2607
+Personal,Middle Filter,,Hoyt S DMF,yes,127,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4495
+Personal,Middle Filter,,Hoyt S DMF,yes,127,no,1: Weekday (Tu-Th),0: All Day (12am-12am),20530
+Personal,Middle Filter,,Hoyt S DMF,yes,127,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3057
+Personal,Middle Filter,,Hoyt S DMF,yes,127,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),4905
+Personal,Middle Filter,,Shore Blvd SB before Astoria Park S,yes,221,no,0: All Days (M-Su),0: All Day (12am-12am),930
+Personal,Middle Filter,,Shore Blvd SB before Astoria Park S,yes,221,no,0: All Days (M-Su),1: Peak AM (7am-10am),95
+Personal,Middle Filter,,Shore Blvd SB before Astoria Park S,yes,221,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),328
+Personal,Middle Filter,,Shore Blvd SB before Astoria Park S,yes,221,no,1: Weekday (Tu-Th),0: All Day (12am-12am),731
+Personal,Middle Filter,,Shore Blvd SB before Astoria Park S,yes,221,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),118
+Personal,Middle Filter,,Shore Blvd SB before Astoria Park S,yes,221,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),229
+Personal,Middle Filter,,Shore Blvd SB past Ditmars,yes,223,no,0: All Days (M-Su),0: All Day (12am-12am),895
+Personal,Middle Filter,,Shore Blvd SB past Ditmars,yes,223,no,0: All Days (M-Su),1: Peak AM (7am-10am),105
+Personal,Middle Filter,,Shore Blvd SB past Ditmars,yes,223,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),293
+Personal,Middle Filter,,Shore Blvd SB past Ditmars,yes,223,no,1: Weekday (Tu-Th),0: All Day (12am-12am),705
+Personal,Middle Filter,,Shore Blvd SB past Ditmars,yes,223,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),141
+Personal,Middle Filter,,Shore Blvd SB past Ditmars,yes,223,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),189
+Personal,Destination,,14 St SB,yes,202,no,0: All Days (M-Su),0: All Day (12am-12am),2585
+Personal,Destination,,14 St SB,yes,202,no,0: All Days (M-Su),1: Peak AM (7am-10am),577
+Personal,Destination,,14 St SB,yes,202,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),485
+Personal,Destination,,14 St SB,yes,202,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2772
+Personal,Destination,,14 St SB,yes,202,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),705
+Personal,Destination,,14 St SB,yes,202,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),482
+Personal,Destination,,21 St SB,yes,212,no,0: All Days (M-Su),0: All Day (12am-12am),22129
+Personal,Destination,,21 St SB,yes,212,no,0: All Days (M-Su),1: Peak AM (7am-10am),4985
+Personal,Destination,,21 St SB,yes,212,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3423
+Personal,Destination,,21 St SB,yes,212,no,1: Weekday (Tu-Th),0: All Day (12am-12am),23999
+Personal,Destination,,21 St SB,yes,212,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),6254
+Personal,Destination,,21 St SB,yes,212,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3293
+Personal,Destination,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),0: All Day (12am-12am),19520
+Personal,Destination,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),1: Peak AM (7am-10am),2592
+Personal,Destination,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4532
+Personal,Destination,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),0: All Day (12am-12am),20520
+Personal,Destination,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3028
+Personal,Destination,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),4940

@@ -1,0 +1,55 @@
+Type of Travel,Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index)
+Personal,Origin,,Baychester Ave/E233 St,yes,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),27611
+Personal,Origin,,Baychester Ave/E233 St,yes,N/A,no,0: All Days (M-Su),1: Peak AM (7am-10am),4158
+Personal,Origin,,Baychester Ave/E233 St,yes,N/A,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),6131
+Personal,Origin,,Baychester Ave/E233 St,yes,N/A,no,1: Weekday (Tu-Th),0: All Day (12am-12am),27883
+Personal,Origin,,Baychester Ave/E233 St,yes,N/A,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4964
+Personal,Origin,,Baychester Ave/E233 St,yes,N/A,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6415
+Personal,Middle Filter,,Baychester Ave DMF,yes,343,no,0: All Days (M-Su),0: All Day (12am-12am),4562
+Personal,Middle Filter,,Baychester Ave DMF,yes,343,no,0: All Days (M-Su),1: Peak AM (7am-10am),632
+Personal,Middle Filter,,Baychester Ave DMF,yes,343,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),965
+Personal,Middle Filter,,Baychester Ave DMF,yes,343,no,1: Weekday (Tu-Th),0: All Day (12am-12am),4470
+Personal,Middle Filter,,Baychester Ave DMF,yes,343,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),747
+Personal,Middle Filter,,Baychester Ave DMF,yes,343,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1028
+Personal,Middle Filter,,Baychester Ave/Pitman Ave,yes,345,no,0: All Days (M-Su),0: All Day (12am-12am),5352
+Personal,Middle Filter,,Baychester Ave/Pitman Ave,yes,345,no,0: All Days (M-Su),1: Peak AM (7am-10am),898
+Personal,Middle Filter,,Baychester Ave/Pitman Ave,yes,345,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1158
+Personal,Middle Filter,,Baychester Ave/Pitman Ave,yes,345,no,1: Weekday (Tu-Th),0: All Day (12am-12am),5287
+Personal,Middle Filter,,Baychester Ave/Pitman Ave,yes,345,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1067
+Personal,Middle Filter,,Baychester Ave/Pitman Ave,yes,345,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1230
+Personal,Middle Filter,,Baychester Ave/Strang Ave,yes,346,no,0: All Days (M-Su),0: All Day (12am-12am),5448
+Personal,Middle Filter,,Baychester Ave/Strang Ave,yes,346,no,0: All Days (M-Su),1: Peak AM (7am-10am),828
+Personal,Middle Filter,,Baychester Ave/Strang Ave,yes,346,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1178
+Personal,Middle Filter,,Baychester Ave/Strang Ave,yes,346,no,1: Weekday (Tu-Th),0: All Day (12am-12am),5507
+Personal,Middle Filter,,Baychester Ave/Strang Ave,yes,346,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),963
+Personal,Middle Filter,,Baychester Ave/Strang Ave,yes,346,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1239
+Personal,Middle Filter,,Wilder Ave DMF,yes,338,no,0: All Days (M-Su),0: All Day (12am-12am),267
+Personal,Middle Filter,,Wilder Ave DMF,yes,338,no,0: All Days (M-Su),1: Peak AM (7am-10am),42
+Personal,Middle Filter,,Wilder Ave DMF,yes,338,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),58
+Personal,Middle Filter,,Wilder Ave DMF,yes,338,no,1: Weekday (Tu-Th),0: All Day (12am-12am),240
+Personal,Middle Filter,,Wilder Ave DMF,yes,338,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),39
+Personal,Middle Filter,,Wilder Ave DMF,yes,338,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),62
+Personal,Middle Filter,,Wilder Ave/Pitman Ave,yes,344,no,0: All Days (M-Su),0: All Day (12am-12am),463
+Personal,Middle Filter,,Wilder Ave/Pitman Ave,yes,344,no,0: All Days (M-Su),1: Peak AM (7am-10am),98
+Personal,Middle Filter,,Wilder Ave/Pitman Ave,yes,344,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),76
+Personal,Middle Filter,,Wilder Ave/Pitman Ave,yes,344,no,1: Weekday (Tu-Th),0: All Day (12am-12am),470
+Personal,Middle Filter,,Wilder Ave/Pitman Ave,yes,344,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),127
+Personal,Middle Filter,,Wilder Ave/Pitman Ave,yes,344,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),82
+Personal,Middle Filter,,Wilder Ave/Strang Ave,yes,342,no,0: All Days (M-Su),0: All Day (12am-12am),579
+Personal,Middle Filter,,Wilder Ave/Strang Ave,yes,342,no,0: All Days (M-Su),1: Peak AM (7am-10am),57
+Personal,Middle Filter,,Wilder Ave/Strang Ave,yes,342,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),150
+Personal,Middle Filter,,Wilder Ave/Strang Ave,yes,342,no,1: Weekday (Tu-Th),0: All Day (12am-12am),555
+Personal,Middle Filter,,Wilder Ave/Strang Ave,yes,342,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),62
+Personal,Middle Filter,,Wilder Ave/Strang Ave,yes,342,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),142
+Personal,Destination,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),0: All Day (12am-12am),4923
+Personal,Destination,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),1: Peak AM (7am-10am),670
+Personal,Destination,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1051
+Personal,Destination,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),0: All Day (12am-12am),4823
+Personal,Destination,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),789
+Personal,Destination,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1120
+Personal,Destination,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),0: All Day (12am-12am),278
+Personal,Destination,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),1: Peak AM (7am-10am),48
+Personal,Destination,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),59
+Personal,Destination,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),0: All Day (12am-12am),246
+Personal,Destination,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),48
+Personal,Destination,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),57

@@ -1,0 +1,14 @@
+Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Fingerprint1,Fingerprint2
+Origin,,Baychester Ave/E241 St,yes,N/A,no,0,911848399089950
+Middle Filter,,Baychester Ave before Bussing Ave,yes,163,no,0,911867726393586
+Middle Filter,,Baychester Ave DMF,yes,163,no,0,911884906215658
+Middle Filter,,Baychester Ave past Camp St,yes,164,no,0,911850546565346
+Middle Filter,,Dereimer Ave before Bussing Ave,yes,162,no,0,911874168846562
+Middle Filter,,Dereimer Ave DMF,yes,165,no,0,911893496152272
+Middle Filter,,Dereimer Ave past Camp St,yes,164,no,0,911859136501996
+Middle Filter,,Wilder Ave before Bussing Ave,yes,163,no,0,911882758783174
+Middle Filter,,Wilder Ave DMF,yes,165,no,0,911899938605254
+Middle Filter,,Wilder Ave past Camp St,yes,157,no,0,911863431471308
+Destination,,Baychester Ave SB,yes,165,no,0,911889201172704
+Destination,,Dereimer Ave SB,yes,164,no,0,911897791109358
+Destination,,Wilder Ave SB,yes,166,no,0,911904233560288

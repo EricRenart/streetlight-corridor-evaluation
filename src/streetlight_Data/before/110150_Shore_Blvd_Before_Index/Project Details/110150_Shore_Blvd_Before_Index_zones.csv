@@ -1,0 +1,14 @@
+Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Fingerprint1,Fingerprint2
+Origin,,Shore Blvd/Ditmars Blvd,yes,N/A,no,0,911223480373470
+Middle Filter,,14st DMF,yes,201,no,0,911154760843468
+Middle Filter,,19st SB,yes,225,no,0,911236365263048
+Middle Filter,,21st DMF,yes,212,no,0,911184825600222
+Middle Filter,,21St past 24Rd,yes,223,no,0,911199857998024
+Middle Filter,,21St SB past Ditmars,yes,224,no,0,911247102675142
+Middle Filter,,Hoyt Ave N,yes,155,no,0,911189120583844
+Middle Filter,,Hoyt S DMF,yes,127,no,0,911189120567522
+Middle Filter,,Shore Blvd SB before Astoria Park S,yes,221,no,0,911159055820994
+Middle Filter,,Shore Blvd SB past Ditmars,yes,223,no,0,911219185404100
+Destination,,14 St SB,yes,202,no,0,911150465867906
+Destination,,21 St SB,yes,212,no,0,911182678114486
+Destination,,Hoyt Ave S EB,yes,125,no,0,911193415532722

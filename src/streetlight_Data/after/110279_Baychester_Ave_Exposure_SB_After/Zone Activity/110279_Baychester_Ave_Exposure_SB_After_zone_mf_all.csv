@@ -1,0 +1,79 @@
+Type of Travel,Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index)
+Personal,Origin,,Baychester Ave/E241 St,yes,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),16401
+Personal,Origin,,Baychester Ave/E241 St,yes,N/A,no,0: All Days (M-Su),1: Peak AM (7am-10am),2322
+Personal,Origin,,Baychester Ave/E241 St,yes,N/A,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3362
+Personal,Origin,,Baychester Ave/E241 St,yes,N/A,no,1: Weekday (Tu-Th),0: All Day (12am-12am),16339
+Personal,Origin,,Baychester Ave/E241 St,yes,N/A,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2777
+Personal,Origin,,Baychester Ave/E241 St,yes,N/A,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3640
+Personal,Middle Filter,,Baychester Ave before Bussing Ave,yes,163,no,0: All Days (M-Su),0: All Day (12am-12am),8431
+Personal,Middle Filter,,Baychester Ave before Bussing Ave,yes,163,no,0: All Days (M-Su),1: Peak AM (7am-10am),1189
+Personal,Middle Filter,,Baychester Ave before Bussing Ave,yes,163,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1839
+Personal,Middle Filter,,Baychester Ave before Bussing Ave,yes,163,no,1: Weekday (Tu-Th),0: All Day (12am-12am),8503
+Personal,Middle Filter,,Baychester Ave before Bussing Ave,yes,163,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1508
+Personal,Middle Filter,,Baychester Ave before Bussing Ave,yes,163,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1945
+Personal,Middle Filter,,Baychester Ave DMF,yes,163,no,0: All Days (M-Su),0: All Day (12am-12am),8076
+Personal,Middle Filter,,Baychester Ave DMF,yes,163,no,0: All Days (M-Su),1: Peak AM (7am-10am),1181
+Personal,Middle Filter,,Baychester Ave DMF,yes,163,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1650
+Personal,Middle Filter,,Baychester Ave DMF,yes,163,no,1: Weekday (Tu-Th),0: All Day (12am-12am),7843
+Personal,Middle Filter,,Baychester Ave DMF,yes,163,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1454
+Personal,Middle Filter,,Baychester Ave DMF,yes,163,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1709
+Personal,Middle Filter,,Baychester Ave past Camp St,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),6696
+Personal,Middle Filter,,Baychester Ave past Camp St,yes,164,no,0: All Days (M-Su),1: Peak AM (7am-10am),932
+Personal,Middle Filter,,Baychester Ave past Camp St,yes,164,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1487
+Personal,Middle Filter,,Baychester Ave past Camp St,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6676
+Personal,Middle Filter,,Baychester Ave past Camp St,yes,164,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1195
+Personal,Middle Filter,,Baychester Ave past Camp St,yes,164,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1577
+Personal,Middle Filter,,Dereimer Ave before Bussing Ave,yes,162,no,0: All Days (M-Su),0: All Day (12am-12am),759
+Personal,Middle Filter,,Dereimer Ave before Bussing Ave,yes,162,no,0: All Days (M-Su),1: Peak AM (7am-10am),126
+Personal,Middle Filter,,Dereimer Ave before Bussing Ave,yes,162,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),156
+Personal,Middle Filter,,Dereimer Ave before Bussing Ave,yes,162,no,1: Weekday (Tu-Th),0: All Day (12am-12am),692
+Personal,Middle Filter,,Dereimer Ave before Bussing Ave,yes,162,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),160
+Personal,Middle Filter,,Dereimer Ave before Bussing Ave,yes,162,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),133
+Personal,Middle Filter,,Dereimer Ave DMF,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),716
+Personal,Middle Filter,,Dereimer Ave DMF,yes,165,no,0: All Days (M-Su),1: Peak AM (7am-10am),131
+Personal,Middle Filter,,Dereimer Ave DMF,yes,165,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),135
+Personal,Middle Filter,,Dereimer Ave DMF,yes,165,no,1: Weekday (Tu-Th),0: All Day (12am-12am),772
+Personal,Middle Filter,,Dereimer Ave DMF,yes,165,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),176
+Personal,Middle Filter,,Dereimer Ave DMF,yes,165,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),127
+Personal,Middle Filter,,Dereimer Ave past Camp St,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),189
+Personal,Middle Filter,,Dereimer Ave past Camp St,yes,164,no,0: All Days (M-Su),1: Peak AM (7am-10am),9
+Personal,Middle Filter,,Dereimer Ave past Camp St,yes,164,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),47
+Personal,Middle Filter,,Dereimer Ave past Camp St,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),172
+Personal,Middle Filter,,Dereimer Ave past Camp St,yes,164,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),7
+Personal,Middle Filter,,Dereimer Ave past Camp St,yes,164,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),50
+Personal,Middle Filter,,Wilder Ave before Bussing Ave,yes,163,no,0: All Days (M-Su),0: All Day (12am-12am),755
+Personal,Middle Filter,,Wilder Ave before Bussing Ave,yes,163,no,0: All Days (M-Su),1: Peak AM (7am-10am),141
+Personal,Middle Filter,,Wilder Ave before Bussing Ave,yes,163,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),140
+Personal,Middle Filter,,Wilder Ave before Bussing Ave,yes,163,no,1: Weekday (Tu-Th),0: All Day (12am-12am),789
+Personal,Middle Filter,,Wilder Ave before Bussing Ave,yes,163,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),172
+Personal,Middle Filter,,Wilder Ave before Bussing Ave,yes,163,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),176
+Personal,Middle Filter,,Wilder Ave DMF,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),469
+Personal,Middle Filter,,Wilder Ave DMF,yes,165,no,0: All Days (M-Su),1: Peak AM (7am-10am),74
+Personal,Middle Filter,,Wilder Ave DMF,yes,165,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),83
+Personal,Middle Filter,,Wilder Ave DMF,yes,165,no,1: Weekday (Tu-Th),0: All Day (12am-12am),531
+Personal,Middle Filter,,Wilder Ave DMF,yes,165,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),107
+Personal,Middle Filter,,Wilder Ave DMF,yes,165,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),84
+Personal,Middle Filter,,Wilder Ave past Camp St,yes,157,no,0: All Days (M-Su),0: All Day (12am-12am),470
+Personal,Middle Filter,,Wilder Ave past Camp St,yes,157,no,0: All Days (M-Su),1: Peak AM (7am-10am),65
+Personal,Middle Filter,,Wilder Ave past Camp St,yes,157,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),67
+Personal,Middle Filter,,Wilder Ave past Camp St,yes,157,no,1: Weekday (Tu-Th),0: All Day (12am-12am),475
+Personal,Middle Filter,,Wilder Ave past Camp St,yes,157,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),89
+Personal,Middle Filter,,Wilder Ave past Camp St,yes,157,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),84
+Personal,Destination,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),7379
+Personal,Destination,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),1: Peak AM (7am-10am),1103
+Personal,Destination,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1504
+Personal,Destination,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),0: All Day (12am-12am),7083
+Personal,Destination,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1338
+Personal,Destination,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1534
+Personal,Destination,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),792
+Personal,Destination,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),1: Peak AM (7am-10am),188
+Personal,Destination,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),134
+Personal,Destination,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),863
+Personal,Destination,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),238
+Personal,Destination,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),137
+Personal,Destination,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),0: All Day (12am-12am),540
+Personal,Destination,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),1: Peak AM (7am-10am),87
+Personal,Destination,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),93
+Personal,Destination,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),0: All Day (12am-12am),586
+Personal,Destination,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),112
+Personal,Destination,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),108

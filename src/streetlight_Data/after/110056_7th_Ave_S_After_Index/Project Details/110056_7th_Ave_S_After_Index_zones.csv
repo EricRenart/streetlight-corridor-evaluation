@@ -1,0 +1,14 @@
+Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Fingerprint1,Fingerprint2
+Origin,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,0,910523400327466
+Middle Filter,,7 Ave DMF,yes,188,no,0,910489040527534
+Middle Filter,,7 Ave S/W4 St/Christopher St,yes,205,no,0,910510515402994
+Middle Filter,,7th Ave SB past Waverly Pl,yes,204,no,0,910516957866210
+Middle Filter,,Greenwish Ave SB,yes,154,no,0,910529842770190
+Middle Filter,,MacDougal St DMF,yes,213,no,0,910521252780212
+Middle Filter,,MacDougal St/Washington Pl,yes,214,no,0,910542727641362
+Middle Filter,,W11 St WB,yes,259,no,0,910512662907146
+Middle Filter,,Washington St DMF,yes,187,no,0,910454680793322
+Middle Filter,,Washington St/W10 St,yes,185,no,0,910458975793356
+Destination,,Houston St/Varick St,yes,187,no,0,910486893039834
+Destination,,McDougal St/Houston St,yes,214,no,0,910516957806804
+Destination,,Washonton St/Houston St,yes,189,no,0,910452533305548

@@ -1,0 +1,103 @@
+Type of Travel,Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index)
+Personal,Origin,,Lafayette/Ashland,yes,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),33034
+Personal,Origin,,Lafayette/Ashland,yes,N/A,no,0: All Days (M-Su),1: Peak AM (7am-10am),3837
+Personal,Origin,,Lafayette/Ashland,yes,N/A,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),7250
+Personal,Origin,,Lafayette/Ashland,yes,N/A,no,1: Weekday (Tu-Th),0: All Day (12am-12am),36876
+Personal,Origin,,Lafayette/Ashland,yes,N/A,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4692
+Personal,Origin,,Lafayette/Ashland,yes,N/A,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),8558
+Personal,Middle Filter,,Fulton St before Washington Ave,yes,103,no,0: All Days (M-Su),0: All Day (12am-12am),27071
+Personal,Middle Filter,,Fulton St before Washington Ave,yes,103,no,0: All Days (M-Su),1: Peak AM (7am-10am),2653
+Personal,Middle Filter,,Fulton St before Washington Ave,yes,103,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5925
+Personal,Middle Filter,,Fulton St before Washington Ave,yes,103,no,1: Weekday (Tu-Th),0: All Day (12am-12am),29264
+Personal,Middle Filter,,Fulton St before Washington Ave,yes,103,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3161
+Personal,Middle Filter,,Fulton St before Washington Ave,yes,103,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6603
+Personal,Middle Filter,,Fulton St DMF,yes,104,no,0: All Days (M-Su),0: All Day (12am-12am),20374
+Personal,Middle Filter,,Fulton St DMF,yes,104,no,0: All Days (M-Su),1: Peak AM (7am-10am),2024
+Personal,Middle Filter,,Fulton St DMF,yes,104,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4426
+Personal,Middle Filter,,Fulton St DMF,yes,104,no,1: Weekday (Tu-Th),0: All Day (12am-12am),22309
+Personal,Middle Filter,,Fulton St DMF,yes,104,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2330
+Personal,Middle Filter,,Fulton St DMF,yes,104,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),5088
+Personal,Middle Filter,,Gates Ave DMF,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),3883
+Personal,Middle Filter,,Gates Ave DMF,yes,80,no,0: All Days (M-Su),1: Peak AM (7am-10am),381
+Personal,Middle Filter,,Gates Ave DMF,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),979
+Personal,Middle Filter,,Gates Ave DMF,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),4208
+Personal,Middle Filter,,Gates Ave DMF,yes,80,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),439
+Personal,Middle Filter,,Gates Ave DMF,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1165
+Personal,Middle Filter,,Gates before Washington Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),2393
+Personal,Middle Filter,,Gates before Washington Ave,yes,80,no,0: All Days (M-Su),1: Peak AM (7am-10am),303
+Personal,Middle Filter,,Gates before Washington Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),547
+Personal,Middle Filter,,Gates before Washington Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2585
+Personal,Middle Filter,,Gates before Washington Ave,yes,80,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),403
+Personal,Middle Filter,,Gates before Washington Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),573
+Personal,Middle Filter,,Greene Ave after Fulton St,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),6385
+Personal,Middle Filter,,Greene Ave after Fulton St,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),583
+Personal,Middle Filter,,Greene Ave after Fulton St,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1681
+Personal,Middle Filter,,Greene Ave after Fulton St,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),7143
+Personal,Middle Filter,,Greene Ave after Fulton St,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),791
+Personal,Middle Filter,,Greene Ave after Fulton St,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1955
+Personal,Middle Filter,,Greene Ave DMF,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),5340
+Personal,Middle Filter,,Greene Ave DMF,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),310
+Personal,Middle Filter,,Greene Ave DMF,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1584
+Personal,Middle Filter,,Greene Ave DMF,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6436
+Personal,Middle Filter,,Greene Ave DMF,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),418
+Personal,Middle Filter,,Greene Ave DMF,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),2175
+Personal,Middle Filter,,Greene before Washignton Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),5806
+Personal,Middle Filter,,Greene before Washignton Ave,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),486
+Personal,Middle Filter,,Greene before Washignton Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1727
+Personal,Middle Filter,,Greene before Washignton Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6778
+Personal,Middle Filter,,Greene before Washignton Ave,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),582
+Personal,Middle Filter,,Greene before Washignton Ave,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),2229
+Personal,Middle Filter,,Hanson Pl/Greene Ave before St Felix St,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),3204
+Personal,Middle Filter,,Hanson Pl/Greene Ave before St Felix St,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),306
+Personal,Middle Filter,,Hanson Pl/Greene Ave before St Felix St,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),856
+Personal,Middle Filter,,Hanson Pl/Greene Ave before St Felix St,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3715
+Personal,Middle Filter,,Hanson Pl/Greene Ave before St Felix St,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),503
+Personal,Middle Filter,,Hanson Pl/Greene Ave before St Felix St,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),945
+Personal,Middle Filter,,Lafayette Ave before Cumberland St,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),23201
+Personal,Middle Filter,,Lafayette Ave before Cumberland St,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),2643
+Personal,Middle Filter,,Lafayette Ave before Cumberland St,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5044
+Personal,Middle Filter,,Lafayette Ave before Cumberland St,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),25437
+Personal,Middle Filter,,Lafayette Ave before Cumberland St,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3022
+Personal,Middle Filter,,Lafayette Ave before Cumberland St,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),5790
+Personal,Middle Filter,,Lafayette Ave DMF,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),22257
+Personal,Middle Filter,,Lafayette Ave DMF,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),2311
+Personal,Middle Filter,,Lafayette Ave DMF,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4962
+Personal,Middle Filter,,Lafayette Ave DMF,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),24105
+Personal,Middle Filter,,Lafayette Ave DMF,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2589
+Personal,Middle Filter,,Lafayette Ave DMF,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),5734
+Personal,Middle Filter,,Lafayette before St Felix St,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),24079
+Personal,Middle Filter,,Lafayette before St Felix St,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),2544
+Personal,Middle Filter,,Lafayette before St Felix St,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5367
+Personal,Middle Filter,,Lafayette before St Felix St,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),26670
+Personal,Middle Filter,,Lafayette before St Felix St,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2914
+Personal,Middle Filter,,Lafayette before St Felix St,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6436
+Personal,Middle Filter,,LAfayette before Washington Ave,yes,84,no,0: All Days (M-Su),0: All Day (12am-12am),25136
+Personal,Middle Filter,,LAfayette before Washington Ave,yes,84,no,0: All Days (M-Su),1: Peak AM (7am-10am),2862
+Personal,Middle Filter,,LAfayette before Washington Ave,yes,84,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5488
+Personal,Middle Filter,,LAfayette before Washington Ave,yes,84,no,1: Weekday (Tu-Th),0: All Day (12am-12am),27958
+Personal,Middle Filter,,LAfayette before Washington Ave,yes,84,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3408
+Personal,Middle Filter,,LAfayette before Washington Ave,yes,84,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6124
+Personal,Destination,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),20177
+Personal,Destination,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),2033
+Personal,Destination,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4332
+Personal,Destination,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),22291
+Personal,Destination,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2416
+Personal,Destination,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),4948
+Personal,Destination,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),3787
+Personal,Destination,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),391
+Personal,Destination,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),960
+Personal,Destination,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),4116
+Personal,Destination,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),480
+Personal,Destination,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1175
+Personal,Destination,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),5312
+Personal,Destination,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),290
+Personal,Destination,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1597
+Personal,Destination,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6449
+Personal,Destination,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),392
+Personal,Destination,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),2224
+Personal,Destination,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),22122
+Personal,Destination,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),1: Peak AM (7am-10am),2290
+Personal,Destination,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4966
+Personal,Destination,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),23955
+Personal,Destination,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2554
+Personal,Destination,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),5724

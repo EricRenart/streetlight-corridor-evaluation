@@ -1,0 +1,152 @@
+Type of Travel,Origin Zone ID,Origin Zone Name,Origin Zone Is Pass-Through,Origin Zone Direction (degrees),Origin Zone is Bi-Direction,Middle Filter Zone ID,Middle Filter Zone Name,Middle Filter Zone Direction (degrees),Middle Filter Zone is Bi-Direction,Destination Zone ID,Destination Zone Name,Destination Zone Is Pass-Through,Destination Zone Direction (degrees),Destination Zone is Bi-Direction,Day Type,Day Part,Average Daily O-M-D Traffic (StL Index),Average Daily Origin Zone Traffic (StL Index),Average Daily Middle Filter Zone Traffic (StL Index),Average Daily Destination Zone Traffic (StL Index),Avg Trip Duration (sec)
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),72616,196608,94623,95254,170
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),18458,38630,22354,22337,162
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),13267,43124,17096,17219,172
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),82905,219836,106562,107235,171
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),23883,48618,28836,28807,163
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),15480,49950,19793,19942,174
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),96,196608,94623,26830,721
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),12,38630,22354,5451,558
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),8,43124,17096,5542,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),99,219836,106562,29640,894
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),15,48618,28836,7010,688
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6,49950,19793,6269,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),118,196608,94623,10407,901
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),1: Peak AM (7am-10am),21,38630,22354,1430,1208
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),20,43124,17096,2325,909
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),135,219836,106562,11394,985
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),26,48618,28836,1863,1253
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave DMF,188,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),23,49950,19793,2641,837
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),69988,196608,130111,95254,168
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),17917,38630,27447,22337,161
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),12685,43124,27215,17219,169
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),79833,219836,145545,107235,169
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),23172,48618,34866,28807,163
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),14770,49950,31286,19942,171
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),13199,196608,130111,26830,229
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),3025,38630,27447,5451,202
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),2865,43124,27215,5542,238
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),14923,219836,145545,29640,229
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3904,48618,34866,7010,205
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3225,49950,31286,6269,236
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),1365,196608,130111,10407,452
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),1: Peak AM (7am-10am),207,38630,27447,1430,483
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),392,43124,27215,2325,491
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),1519,219836,145545,11394,460
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),273,48618,34866,1863,563
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7 Ave S/W4 St/Christopher St,205,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),410,49950,31286,2641,484
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),70021,196608,127060,95254,168
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),17924,38630,27130,22337,161
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),12672,43124,26461,17219,169
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),79874,219836,142245,107235,168
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),23168,48618,34480,28807,163
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),14776,49950,30386,19942,170
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),13216,196608,127060,26830,229
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),3024,38630,27130,5451,202
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),2857,43124,26461,5542,238
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),14932,219836,142245,29640,228
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3907,48618,34480,7010,205
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3224,49950,30386,6269,235
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),1491,196608,127060,10407,465
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),1: Peak AM (7am-10am),209,38630,27130,1430,478
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),420,43124,26461,2325,519
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),1643,219836,142245,11394,479
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),272,48618,34480,1863,555
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,7th Ave SB past Waverly Pl,204,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),440,49950,30386,2641,536
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),2711,196608,19251,95254,214
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),663,38630,2986,22337,206
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),589,43124,4750,17219,214
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3195,219836,21301,107235,217
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),855,48618,3843,28807,200
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),745,49950,5424,19942,227
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),963,196608,19251,26830,417
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),181,38630,2986,5451,304
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),217,43124,4750,5542,448
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),1056,219836,21301,29640,406
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),230,48618,3843,7010,316
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),265,49950,5424,6269,416
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),52,196608,19251,10407,694
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),1: Peak AM (7am-10am),5,38630,2986,1430,690
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),16,43124,4750,2325,655
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),53,219836,21301,11394,615
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),9,48618,3843,1863,617
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Greenwish Ave SB,154,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),22,49950,5424,2641,573
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),107,196608,26782,95254,670
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),56,38630,5443,22337,572
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),13,43124,5549,17219,774
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),147,219836,29611,107235,637
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),81,48618,6996,28807,598
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),23,49950,6294,19942,670
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),14082,196608,26782,26830,240
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),3182,38630,5443,5451,207
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3029,43124,5549,5542,245
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),15930,219836,29611,29640,238
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4127,48618,6996,7010,210
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3446,49950,6294,6269,241
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),11,196608,26782,10407,1620
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),1: Peak AM (7am-10am),2,38630,5443,1430,1857
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1,43124,5549,2325,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),12,219836,29611,11394,1730
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St DMF,213,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4,48618,6996,1863,1857
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),22,196608,9758,95254,1525
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,38630,1109,22337,519
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),7,43124,2133,17219,2158
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),22,219836,10155,107235,3127
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3,48618,1367,28807,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),13,49950,2423,19942,3127
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),508,196608,9758,26830,384
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),87,38630,1109,5451,262
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),109,43124,2133,5542,359
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),574,219836,10155,29640,350
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),114,48618,1367,7010,282
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),140,49950,2423,6269,292
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),5,196608,9758,10407,486
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,MacDougal St/Washington Pl,214,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6,219836,10155,11394,486
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),176,196608,3605,95254,724
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,38630,415,22337,759
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),24,43124,754,17219,1015
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),170,219836,3713,107235,883
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),11,48618,539,28807,579
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),31,49950,861,19942,1431
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),29,196608,3605,26830,1060
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),2,38630,415,5451,1885
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5,43124,754,5542,1558
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),35,219836,3713,29640,999
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),5,48618,539,7010,1885
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),7,49950,861,6269,1066
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),234,196608,3605,10407,650
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),1: Peak AM (7am-10am),23,38630,415,1430,598
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),54,43124,754,2325,890
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),265,219836,3713,11394,710
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),29,48618,539,1863,554
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,W11 St WB,259,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),73,49950,861,2641,949
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),20,196608,10436,95254,894
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),3,38630,1425,22337,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1,43124,2319,17219,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),23,219836,11437,107235,908
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),6,48618,1875,28807,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),10,196608,10436,26830,1297
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),1,38630,1425,5451,1724
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3,43124,2319,5542,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6,219836,11437,29640,869
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),1804,196608,10436,10407,485
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),1: Peak AM (7am-10am),218,38630,1425,1430,450
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),488,43124,2319,2325,507
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),1951,219836,11437,11394,490
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),285,48618,1875,1863,500
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St DMF,187,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),523,49950,2639,2641,463
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),58,196608,7528,95254,1107
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),2,38630,1008,22337,884
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),7,43124,1422,17219,1318
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),42,219836,7669,107235,1390
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2,48618,1161,28807,624
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6,49950,1602,19942,2136
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),10,196608,7528,26830,964
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1,43124,1422,5542,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),5,219836,7669,29640,N/A
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),526,196608,7528,10407,683
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),1: Peak AM (7am-10am),39,38630,1008,1430,860
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),109,43124,1422,2325,721
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),507,219836,7669,11394,742
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),55,48618,1161,1863,900
+Personal,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,,Washington St/W10 St,185,no,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),124,49950,1602,2641,614

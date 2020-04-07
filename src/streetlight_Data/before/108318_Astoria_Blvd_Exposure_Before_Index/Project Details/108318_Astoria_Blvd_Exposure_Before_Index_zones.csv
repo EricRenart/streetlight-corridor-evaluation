@@ -1,0 +1,16 @@
+Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Fingerprint1,Fingerprint2
+Origin,,Astoria/77 St,yes,N/A,no,0,911461850919214
+Middle Filter,,23 Ave/Ditmars Blvd,yes,80,no,0,911648682021090
+Middle Filter,,31 Ave/80 St,yes,83,no,0,911498358087930
+Middle Filter,,31 Ave/99 St,yes,82,no,0,911644386990342
+Middle Filter,,Astoria Blvd/108 ST DMF,yes,109,no,0,911717401432296
+Middle Filter,,Astoria Blvd/80 St,yes,102,no,0,911489768202458
+Middle Filter,,Astoria Blvd/99 St,yes,102,no,0,911644387000572
+Middle Filter,,Ditmars Blvd/31 Ave DMF,yes,153,no,0,911723843897570
+Middle Filter,,GCP to 23 Ave/Ditmars,yes,74,no,0,911487620727022
+Middle Filter,,Northern Blvd/108 St DMF,yes,88,no,0,911721696377110
+Middle Filter,,Northern Blvd/80 St,yes,82,no,0,911504800508176
+Middle Filter,,Northern Blvd/99 St,yes,82,no,0,911650829410572
+Destination,,Astoria Blvd DMF,yes,108,no,0,911721696397532
+Destination,,Ditmars DMF,yes,143,no,0,911730286342376
+Destination,,Northern Blvd EB,yes,89,no,0,911725991344374

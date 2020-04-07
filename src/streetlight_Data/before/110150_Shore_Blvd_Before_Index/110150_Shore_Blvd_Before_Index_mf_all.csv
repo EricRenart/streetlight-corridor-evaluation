@@ -1,0 +1,74 @@
+Type of Travel,Origin Zone ID,Origin Zone Name,Origin Zone Is Pass-Through,Origin Zone Direction (degrees),Origin Zone is Bi-Direction,Middle Filter Zone ID,Middle Filter Zone Name,Middle Filter Zone Direction (degrees),Middle Filter Zone is Bi-Direction,Destination Zone ID,Destination Zone Name,Destination Zone Is Pass-Through,Destination Zone Direction (degrees),Destination Zone is Bi-Direction,Day Type,Day Part,Average Daily O-M-D Traffic (StL Index),Average Daily Origin Zone Traffic (StL Index),Average Daily Middle Filter Zone Traffic (StL Index),Average Daily Destination Zone Traffic (StL Index),Avg Trip Duration (sec)
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,14st DMF,201,no,,14 St SB,yes,202,no,0: All Days (M-Su),0: All Day (12am-12am),463,3548,2611,2585,181
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,14st DMF,201,no,,14 St SB,yes,202,no,0: All Days (M-Su),1: Peak AM (7am-10am),79,487,531,577,125
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,14st DMF,201,no,,14 St SB,yes,202,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),132,987,475,485,159
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,14st DMF,201,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),0: All Day (12am-12am),365,3313,2879,2772,129
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,14st DMF,201,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),98,606,641,705,112
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,14st DMF,201,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),102,862,491,482,152
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,19st SB,225,no,,14 St SB,yes,202,no,0: All Days (M-Su),0: All Day (12am-12am),9,3548,1213,2585,361
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,19st SB,225,no,,21 St SB,yes,212,no,0: All Days (M-Su),0: All Day (12am-12am),13,3548,1213,22129,780
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,19st SB,225,no,,21 St SB,yes,212,no,0: All Days (M-Su),1: Peak AM (7am-10am),6,487,107,4985,N/A
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,19st SB,225,no,,21 St SB,yes,212,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),7,987,307,3423,780
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,19st SB,225,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),0: All Day (12am-12am),55,3548,1213,19520,777
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,19st SB,225,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,487,107,2592,615
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,19st SB,225,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),7,987,307,4532,2090
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,19st SB,225,no,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),0: All Day (12am-12am),36,3313,1026,20520,366
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21st DMF,212,no,,21 St SB,yes,212,no,0: All Days (M-Su),0: All Day (12am-12am),178,3548,22659,22129,417
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21st DMF,212,no,,21 St SB,yes,212,no,0: All Days (M-Su),1: Peak AM (7am-10am),36,487,5045,4985,549
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21st DMF,212,no,,21 St SB,yes,212,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),25,987,3487,3423,654
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21st DMF,212,no,,21 St SB,yes,212,no,1: Weekday (Tu-Th),0: All Day (12am-12am),167,3313,24456,23999,347
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21st DMF,212,no,,21 St SB,yes,212,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),53,606,6320,6254,372
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,14 St SB,yes,202,no,0: All Days (M-Su),0: All Day (12am-12am),19,3548,11292,2585,517
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,14 St SB,yes,202,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,487,2446,577,501
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),0: All Day (12am-12am),19,3313,12133,2772,501
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),19,606,3146,705,501
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,21 St SB,yes,212,no,0: All Days (M-Su),0: All Day (12am-12am),68,3548,11292,22129,410
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,21 St SB,yes,212,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,487,2446,4985,704
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,21 St SB,yes,212,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),9,987,1997,3423,N/A
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,21 St SB,yes,212,no,1: Weekday (Tu-Th),0: All Day (12am-12am),20,3313,12133,23999,157
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),0: All Day (12am-12am),38,3548,11292,19520,220
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),8,987,1997,4532,N/A
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St past 24Rd,223,no,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),0: All Day (12am-12am),34,3313,12133,20520,307
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St SB past Ditmars,224,no,,14 St SB,yes,202,no,0: All Days (M-Su),0: All Day (12am-12am),12,3548,8600,2585,533
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St SB past Ditmars,224,no,,21 St SB,yes,212,no,0: All Days (M-Su),0: All Day (12am-12am),44,3548,8600,22129,410
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,21St SB past Ditmars,224,no,,21 St SB,yes,212,no,1: Weekday (Tu-Th),0: All Day (12am-12am),20,3313,9258,23999,157
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt Ave N,155,no,,14 St SB,yes,202,no,0: All Days (M-Su),0: All Day (12am-12am),9,3548,1779,2585,361
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt Ave N,155,no,,21 St SB,yes,212,no,0: All Days (M-Su),0: All Day (12am-12am),13,3548,1779,22129,780
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt Ave N,155,no,,21 St SB,yes,212,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),7,987,383,3423,780
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt Ave N,155,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),0: All Day (12am-12am),57,3548,1779,19520,766
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt Ave N,155,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),7,987,383,4532,702
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt Ave N,155,no,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),0: All Day (12am-12am),36,3313,1411,20520,366
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt S DMF,127,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),0: All Day (12am-12am),260,3548,19526,19520,431
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt S DMF,127,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),103,987,4495,4532,306
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt S DMF,127,no,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),0: All Day (12am-12am),152,3313,20530,20520,300
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Hoyt S DMF,127,no,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),65,862,4905,4940,281
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,14 St SB,yes,202,no,0: All Days (M-Su),0: All Day (12am-12am),443,3548,930,2585,170
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,14 St SB,yes,202,no,0: All Days (M-Su),1: Peak AM (7am-10am),79,487,95,577,125
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,14 St SB,yes,202,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),132,987,328,485,159
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),0: All Day (12am-12am),365,3313,731,2772,129
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),98,606,118,705,112
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),102,862,229,482,152
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,21 St SB,yes,212,no,0: All Days (M-Su),0: All Day (12am-12am),76,3548,930,22129,330
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,21 St SB,yes,212,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,487,95,4985,196
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,21 St SB,yes,212,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),9,987,328,3423,528
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,21 St SB,yes,212,no,1: Weekday (Tu-Th),0: All Day (12am-12am),115,3313,731,23999,345
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,21 St SB,yes,212,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),20,606,118,6254,196
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),0: All Day (12am-12am),146,3548,930,19520,298
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),80,987,328,4532,281
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),0: All Day (12am-12am),98,3313,731,20520,302
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB before Astoria Park S,221,no,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),82,862,229,4940,323
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,14 St SB,yes,202,no,0: All Days (M-Su),0: All Day (12am-12am),443,3548,895,2585,170
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,14 St SB,yes,202,no,0: All Days (M-Su),1: Peak AM (7am-10am),88,487,105,577,124
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,14 St SB,yes,202,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),132,987,293,485,159
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),0: All Day (12am-12am),365,3313,705,2772,129
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),120,606,141,705,113
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,14 St SB,yes,202,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),102,862,189,482,152
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,21 St SB,yes,212,no,0: All Days (M-Su),0: All Day (12am-12am),76,3548,895,22129,330
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,21 St SB,yes,212,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,487,105,4985,196
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,21 St SB,yes,212,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),9,987,293,3423,528
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,21 St SB,yes,212,no,1: Weekday (Tu-Th),0: All Day (12am-12am),115,3313,705,23999,345
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,21 St SB,yes,212,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),20,606,141,6254,196
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),0: All Day (12am-12am),137,3548,895,19520,291
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,Hoyt Ave S EB,yes,125,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),62,987,293,4532,270
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),0: All Day (12am-12am),98,3313,705,20520,302
+Personal,,Shore Blvd/Ditmars Blvd,yes,N/A,no,,Shore Blvd SB past Ditmars,223,no,,Hoyt Ave S EB,yes,125,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),57,862,189,4940,356

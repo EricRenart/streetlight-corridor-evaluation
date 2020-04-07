@@ -1,0 +1,91 @@
+Type of Travel,Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index)
+Personal,Origin,,Astoria/77 St,yes,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),146160
+Personal,Origin,,Astoria/77 St,yes,N/A,no,0: All Days (M-Su),1: Peak AM (7am-10am),17369
+Personal,Origin,,Astoria/77 St,yes,N/A,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),31084
+Personal,Origin,,Astoria/77 St,yes,N/A,no,1: Weekday (Tu-Th),0: All Day (12am-12am),151591
+Personal,Origin,,Astoria/77 St,yes,N/A,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),19752
+Personal,Origin,,Astoria/77 St,yes,N/A,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),33779
+Personal,Middle Filter,,23 Ave/Ditmars Blvd,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),8028
+Personal,Middle Filter,,23 Ave/Ditmars Blvd,yes,80,no,0: All Days (M-Su),1: Peak AM (7am-10am),1085
+Personal,Middle Filter,,23 Ave/Ditmars Blvd,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),2059
+Personal,Middle Filter,,23 Ave/Ditmars Blvd,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),8072
+Personal,Middle Filter,,23 Ave/Ditmars Blvd,yes,80,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1046
+Personal,Middle Filter,,23 Ave/Ditmars Blvd,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),2439
+Personal,Middle Filter,,31 Ave/80 St,yes,83,no,0: All Days (M-Su),0: All Day (12am-12am),4825
+Personal,Middle Filter,,31 Ave/80 St,yes,83,no,0: All Days (M-Su),1: Peak AM (7am-10am),386
+Personal,Middle Filter,,31 Ave/80 St,yes,83,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1337
+Personal,Middle Filter,,31 Ave/80 St,yes,83,no,1: Weekday (Tu-Th),0: All Day (12am-12am),5200
+Personal,Middle Filter,,31 Ave/80 St,yes,83,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),594
+Personal,Middle Filter,,31 Ave/80 St,yes,83,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1416
+Personal,Middle Filter,,31 Ave/99 St,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),6211
+Personal,Middle Filter,,31 Ave/99 St,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),912
+Personal,Middle Filter,,31 Ave/99 St,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1285
+Personal,Middle Filter,,31 Ave/99 St,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6471
+Personal,Middle Filter,,31 Ave/99 St,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1104
+Personal,Middle Filter,,31 Ave/99 St,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1399
+Personal,Middle Filter,,Astoria Blvd/108 ST DMF,yes,109,no,0: All Days (M-Su),0: All Day (12am-12am),64048
+Personal,Middle Filter,,Astoria Blvd/108 ST DMF,yes,109,no,0: All Days (M-Su),1: Peak AM (7am-10am),8533
+Personal,Middle Filter,,Astoria Blvd/108 ST DMF,yes,109,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),11777
+Personal,Middle Filter,,Astoria Blvd/108 ST DMF,yes,109,no,1: Weekday (Tu-Th),0: All Day (12am-12am),62592
+Personal,Middle Filter,,Astoria Blvd/108 ST DMF,yes,109,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),9450
+Personal,Middle Filter,,Astoria Blvd/108 ST DMF,yes,109,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),11576
+Personal,Middle Filter,,Astoria Blvd/80 St,yes,102,no,0: All Days (M-Su),0: All Day (12am-12am),58933
+Personal,Middle Filter,,Astoria Blvd/80 St,yes,102,no,0: All Days (M-Su),1: Peak AM (7am-10am),6426
+Personal,Middle Filter,,Astoria Blvd/80 St,yes,102,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),12466
+Personal,Middle Filter,,Astoria Blvd/80 St,yes,102,no,1: Weekday (Tu-Th),0: All Day (12am-12am),58303
+Personal,Middle Filter,,Astoria Blvd/80 St,yes,102,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),7485
+Personal,Middle Filter,,Astoria Blvd/80 St,yes,102,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),12698
+Personal,Middle Filter,,Astoria Blvd/99 St,yes,102,no,0: All Days (M-Su),0: All Day (12am-12am),77957
+Personal,Middle Filter,,Astoria Blvd/99 St,yes,102,no,0: All Days (M-Su),1: Peak AM (7am-10am),9172
+Personal,Middle Filter,,Astoria Blvd/99 St,yes,102,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),14494
+Personal,Middle Filter,,Astoria Blvd/99 St,yes,102,no,1: Weekday (Tu-Th),0: All Day (12am-12am),76066
+Personal,Middle Filter,,Astoria Blvd/99 St,yes,102,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),10309
+Personal,Middle Filter,,Astoria Blvd/99 St,yes,102,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),14315
+Personal,Middle Filter,,Ditmars Blvd/31 Ave DMF,yes,153,no,0: All Days (M-Su),0: All Day (12am-12am),44691
+Personal,Middle Filter,,Ditmars Blvd/31 Ave DMF,yes,153,no,0: All Days (M-Su),1: Peak AM (7am-10am),5052
+Personal,Middle Filter,,Ditmars Blvd/31 Ave DMF,yes,153,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),10487
+Personal,Middle Filter,,Ditmars Blvd/31 Ave DMF,yes,153,no,1: Weekday (Tu-Th),0: All Day (12am-12am),46239
+Personal,Middle Filter,,Ditmars Blvd/31 Ave DMF,yes,153,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),5968
+Personal,Middle Filter,,Ditmars Blvd/31 Ave DMF,yes,153,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),11094
+Personal,Middle Filter,,GCP to 23 Ave/Ditmars,yes,74,no,0: All Days (M-Su),0: All Day (12am-12am),26555
+Personal,Middle Filter,,GCP to 23 Ave/Ditmars,yes,74,no,0: All Days (M-Su),1: Peak AM (7am-10am),3202
+Personal,Middle Filter,,GCP to 23 Ave/Ditmars,yes,74,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4994
+Personal,Middle Filter,,GCP to 23 Ave/Ditmars,yes,74,no,1: Weekday (Tu-Th),0: All Day (12am-12am),27956
+Personal,Middle Filter,,GCP to 23 Ave/Ditmars,yes,74,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3702
+Personal,Middle Filter,,GCP to 23 Ave/Ditmars,yes,74,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),5734
+Personal,Middle Filter,,Northern Blvd/108 St DMF,yes,88,no,0: All Days (M-Su),0: All Day (12am-12am),38066
+Personal,Middle Filter,,Northern Blvd/108 St DMF,yes,88,no,0: All Days (M-Su),1: Peak AM (7am-10am),4621
+Personal,Middle Filter,,Northern Blvd/108 St DMF,yes,88,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),8388
+Personal,Middle Filter,,Northern Blvd/108 St DMF,yes,88,no,1: Weekday (Tu-Th),0: All Day (12am-12am),38258
+Personal,Middle Filter,,Northern Blvd/108 St DMF,yes,88,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),5190
+Personal,Middle Filter,,Northern Blvd/108 St DMF,yes,88,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),8223
+Personal,Middle Filter,,Northern Blvd/80 St,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),36373
+Personal,Middle Filter,,Northern Blvd/80 St,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),3490
+Personal,Middle Filter,,Northern Blvd/80 St,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),8880
+Personal,Middle Filter,,Northern Blvd/80 St,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),34862
+Personal,Middle Filter,,Northern Blvd/80 St,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3611
+Personal,Middle Filter,,Northern Blvd/80 St,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),8870
+Personal,Middle Filter,,Northern Blvd/99 St,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),38801
+Personal,Middle Filter,,Northern Blvd/99 St,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),4314
+Personal,Middle Filter,,Northern Blvd/99 St,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),9720
+Personal,Middle Filter,,Northern Blvd/99 St,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),39285
+Personal,Middle Filter,,Northern Blvd/99 St,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4752
+Personal,Middle Filter,,Northern Blvd/99 St,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),9929
+Personal,Destination,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),64214
+Personal,Destination,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),1: Peak AM (7am-10am),8595
+Personal,Destination,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),11803
+Personal,Destination,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),62701
+Personal,Destination,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),9506
+Personal,Destination,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),11602
+Personal,Destination,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),44790
+Personal,Destination,,Ditmars DMF,yes,143,no,0: All Days (M-Su),1: Peak AM (7am-10am),5123
+Personal,Destination,,Ditmars DMF,yes,143,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),10488
+Personal,Destination,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),0: All Day (12am-12am),46554
+Personal,Destination,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),5966
+Personal,Destination,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),11276
+Personal,Destination,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),36203
+Personal,Destination,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),4340
+Personal,Destination,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),8109
+Personal,Destination,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),36530
+Personal,Destination,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4876
+Personal,Destination,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),7909

@@ -1,0 +1,93 @@
+Type of Travel,Origin Zone ID,Origin Zone Name,Origin Zone Is Pass-Through,Origin Zone Direction (degrees),Origin Zone is Bi-Direction,Middle Filter Zone ID,Middle Filter Zone Name,Middle Filter Zone Direction (degrees),Middle Filter Zone is Bi-Direction,Destination Zone ID,Destination Zone Name,Destination Zone Is Pass-Through,Destination Zone Direction (degrees),Destination Zone is Bi-Direction,Day Type,Day Part,Average Daily O-M-D Traffic (StL Index),Average Daily Origin Zone Traffic (StL Index),Average Daily Middle Filter Zone Traffic (StL Index),Average Daily Destination Zone Traffic (StL Index),Avg Trip Duration (sec)
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),2593,16401,8431,7379,321
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),1: Peak AM (7am-10am),369,2322,1189,1103,322
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),560,3362,1839,1504,352
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2521,16339,8503,7083,319
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),499,2777,1508,1338,343
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),608,3640,1945,1534,340
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),32,16401,8431,792,544
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,2322,1189,188,723
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),6,3362,1839,134,308
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),45,16339,8503,863,658
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),6,2777,1508,238,873
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),7,3640,1945,137,240
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),0: All Day (12am-12am),28,16401,8431,540,401
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),1: Peak AM (7am-10am),2,2322,1189,87,313
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),9,3362,1839,93,290
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),0: All Day (12am-12am),41,16339,8503,586,448
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2,2777,1508,112,219
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),16,3640,1945,108,244
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),2654,16401,8076,7379,328
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),1: Peak AM (7am-10am),375,2322,1181,1103,322
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),566,3362,1650,1504,359
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2593,16339,7843,7083,330
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),496,2777,1454,1338,341
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),625,3640,1709,1534,343
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),1,16401,8076,792,N/A
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3,16339,7843,863,N/A
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),0: All Day (12am-12am),1,16401,8076,540,1606
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave DMF,163,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3,16339,7843,586,1606
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),2560,16401,6696,7379,310
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),1: Peak AM (7am-10am),360,2322,932,1103,320
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),554,3362,1487,1504,344
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2508,16339,6676,7083,314
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),491,2777,1195,1338,347
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),588,3640,1577,1534,326
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),35,16401,6696,792,602
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),1: Peak AM (7am-10am),9,2322,932,188,1036
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4,3362,1487,134,226
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),47,16339,6676,863,638
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),10,2777,1195,238,1113
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),7,3640,1577,137,240
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),0: All Day (12am-12am),30,16401,6696,540,407
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,2322,932,87,451
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),11,3362,1487,93,322
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),0: All Day (12am-12am),41,16339,6676,586,448
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2,2777,1195,112,219
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Baychester Ave past Camp St,164,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),16,3640,1577,108,244
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave before Bussing Ave,162,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),1,16401,759,7379,411
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave before Bussing Ave,162,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),3,16401,759,792,1244
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave before Bussing Ave,162,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),1: Peak AM (7am-10am),2,2322,126,188,1594
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave before Bussing Ave,162,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),4,16339,692,863,1594
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave before Bussing Ave,162,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4,2777,160,238,1594
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave DMF,165,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),41,16401,716,792,652
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave DMF,165,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),1: Peak AM (7am-10am),11,2322,131,188,834
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave DMF,165,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),7,3362,135,134,527
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave DMF,165,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),50,16339,772,863,674
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave DMF,165,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),14,2777,176,238,756
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave DMF,165,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),7,3640,127,137,240
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave past Camp St,164,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),6,16401,189,7379,417
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Dereimer Ave past Camp St,164,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3,16339,172,7083,557
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),16,16401,755,7379,509
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),1: Peak AM (7am-10am),2,2322,141,1103,265
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3,3362,140,1504,302
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),0: All Day (12am-12am),18,16339,789,7083,472
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),7,3640,176,1534,302
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),4,16401,755,792,958
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),1: Peak AM (7am-10am),3,2322,141,188,1053
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),8,16339,789,863,1053
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),8,2777,172,238,1053
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),0: All Day (12am-12am),11,16401,755,540,724
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4,3362,140,93,425
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),0: All Day (12am-12am),10,16339,789,586,831
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave before Bussing Ave,163,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3,3640,176,108,499
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave DMF,165,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),0: All Day (12am-12am),40,16401,469,540,453
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave DMF,165,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),1: Peak AM (7am-10am),2,2322,74,87,313
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave DMF,165,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),15,3362,83,93,350
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave DMF,165,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),0: All Day (12am-12am),48,16339,531,586,448
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave DMF,165,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2,2777,107,112,219
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave DMF,165,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),18,3640,84,108,295
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),0: All Day (12am-12am),7,16401,470,7379,828
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),1: Peak AM (7am-10am),3,2322,65,1103,1694
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Baychester Ave SB,yes,165,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1,3362,67,1504,361
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),0: All Day (12am-12am),11,16339,475,7083,936
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3,2777,89,1338,1694
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Baychester Ave SB,yes,165,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),4,3640,84,1534,361
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),0: All Day (12am-12am),1,16401,470,792,512
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Dereimer Ave SB,yes,164,no,0: All Days (M-Su),1: Peak AM (7am-10am),1,2322,65,188,512
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),0: All Day (12am-12am),4,16339,475,863,512
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Dereimer Ave SB,yes,164,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4,2777,89,238,512
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),0: All Day (12am-12am),10,16401,470,540,757
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Wilder Ave SB,yes,166,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3,3362,67,93,391
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),0: All Day (12am-12am),10,16339,475,586,831
+Personal,,Baychester Ave/E241 St,yes,N/A,no,,Wilder Ave past Camp St,157,no,,Wilder Ave SB,yes,166,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3,3640,84,108,499

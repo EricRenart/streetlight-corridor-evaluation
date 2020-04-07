@@ -1,0 +1,30 @@
+Analysis ID: 110150
+Analysis: Shore Blvd Before Index
+Created by: erenart@dot.nyc.gov
+Created on: 2020-03-27
+Organization: New York City DOT (NYCDOT) - Regional Subscription
+
+Analysis Setup Details:
+Analysis Type: O-D Analysis with Middle Filter (LBS Trip Data)
+Type of Travel: Personal
+Mode of Travel: All Modes
+Data Source: Location-Based Services with Pass-through
+Output Type: StreetLight Index
+
+Analysis Options: 
+Date Range: 04/01/2016-04/30/2016
+
+
+Day Type: 
+0: All Days (M-Su)
+1: Weekday (Tu-Th)
+
+Day Part: 
+0: All Day (12am-12am)
+1: Peak AM (7am-10am)
+2: Peak PM (4pm-7pm)
+
+Country: USA
+Metrics Version: R66-M82
+
+Copyright © 2011 - 2020, StreetLight Data, Inc. All rights reserved.

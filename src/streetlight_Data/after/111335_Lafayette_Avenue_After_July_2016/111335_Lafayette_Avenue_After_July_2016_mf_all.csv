@@ -1,0 +1,182 @@
+Type of Travel,Origin Zone ID,Origin Zone Name,Origin Zone Is Pass-Through,Origin Zone Direction (degrees),Origin Zone is Bi-Direction,Middle Filter Zone ID,Middle Filter Zone Name,Middle Filter Zone Direction (degrees),Middle Filter Zone is Bi-Direction,Destination Zone ID,Destination Zone Name,Destination Zone Is Pass-Through,Destination Zone Direction (degrees),Destination Zone is Bi-Direction,Day Type,Day Part,Average Daily O-M-D Traffic (StL Index),Average Daily Origin Zone Traffic (StL Index),Average Daily Middle Filter Zone Traffic (StL Index),Average Daily Destination Zone Traffic (StL Index),Avg Trip Duration (sec)
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),2727,33034,27071,20177,480
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),226,3837,2653,2033,471
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),639,7250,5925,4332,511
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3232,36876,29264,22291,478
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),262,4692,3161,2416,510
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),850,8558,6603,4948,469
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),30,33034,27071,3787,1068
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),16,7250,5925,960,1182
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),39,36876,29264,4116,598
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),26,8558,6603,1175,598
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),6,33034,27071,5312,467
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),31,33034,27071,22122,679
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St before Washington Ave,103,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),11,36876,29264,23955,519
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St DMF,104,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),2808,33034,20374,20177,486
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St DMF,104,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),246,3837,2024,2033,488
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St DMF,104,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),657,7250,4426,4332,519
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St DMF,104,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3320,36876,22309,22291,484
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St DMF,104,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),283,4692,2330,2416,544
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St DMF,104,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),860,8558,5088,4948,472
+Personal,,Lafayette/Ashland,yes,N/A,no,,Fulton St DMF,104,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),3,33034,20374,3787,838
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),4,33034,3883,20177,703
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4,7250,979,4332,703
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),10,36876,4208,22291,703
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),10,8558,1165,4948,703
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),204,33034,3883,3787,646
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),28,3837,381,391,477
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),40,7250,979,960,758
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),196,36876,4208,4116,656
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),51,4692,439,480,505
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates Ave DMF,80,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),36,8558,1165,1175,521
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates before Washington Ave,80,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),4,33034,2393,20177,489
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates before Washington Ave,80,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,3837,303,2033,489
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates before Washington Ave,80,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),60,33034,2393,3787,604
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates before Washington Ave,80,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),20,3837,303,391,505
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates before Washington Ave,80,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5,7250,547,960,482
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates before Washington Ave,80,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),72,36876,2585,4116,576
+Personal,,Lafayette/Ashland,yes,N/A,no,,Gates before Washington Ave,80,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),51,4692,403,480,505
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),71,33034,6385,20177,746
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,3837,583,2033,1327
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),22,7250,1681,4332,967
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),84,36876,7143,22291,581
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),21,4692,791,2416,1327
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),10,8558,1955,4948,269
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),22,33034,6385,3787,714
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),5,3837,583,391,560
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),21,36876,7143,4116,783
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),13,4692,791,480,560
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),292,33034,6385,5312,629
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,3837,583,290,973
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),109,7250,1681,1597,591
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),448,36876,7143,6449,620
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),21,4692,791,392,973
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),157,8558,1955,2224,569
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),43,33034,6385,22122,886
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),26,7250,1681,4966,783
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),29,36876,7143,23955,1133
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave after Fulton St,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),12,8558,1955,5724,1030
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),466,33034,5340,5312,625
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),20,3837,310,290,548
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),149,7250,1584,1597,612
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),704,36876,6436,6449,592
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),41,4692,418,392,548
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),240,8558,2175,2224,539
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),7,33034,5340,22122,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4,7250,1584,4966,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),5,36876,6436,23955,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),5,8558,2175,5724,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),8,33034,5806,20177,1327
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,3837,486,2033,1327
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),21,36876,6778,22291,1327
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),21,4692,582,2416,1327
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),29,33034,5806,3787,767
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),19,36876,6778,4116,802
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),340,33034,5806,5312,606
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),7,3837,486,290,691
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),126,7250,1727,1597,582
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),533,36876,6778,6449,593
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),19,4692,582,392,691
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),192,8558,2229,2224,568
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),34,33034,5806,22122,688
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),20,7250,1727,4966,782
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),21,36876,6778,23955,715
+Personal,,Lafayette/Ashland,yes,N/A,no,,Greene before Washignton Ave,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),13,8558,2229,5724,1021
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),71,33034,3204,20177,871
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,3837,306,2033,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),13,7250,856,4332,995
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),60,36876,3715,22291,1021
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),6,33034,3204,3787,1767
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),6,7250,856,960,1767
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),58,33034,3204,5312,673
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),33,7250,856,1597,727
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),29,36876,3715,6449,592
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),17,8558,945,2224,592
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),56,33034,3204,22122,1078
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,3837,306,2290,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),20,7250,856,4966,795
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),39,36876,3715,23955,1030
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),11,4692,503,2554,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Hanson Pl/Greene Ave before St Felix St,82,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),12,8558,945,5724,1030
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),106,33034,23201,20177,750
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),9,3837,2643,2033,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),21,7250,5044,4332,564
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),103,36876,25437,22291,649
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),11,4692,3022,2416,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),37,8558,5790,4948,618
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),96,33034,23201,3787,581
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),8,3837,2643,391,420
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),18,7250,5044,960,448
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),77,36876,25437,4116,688
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),10,8558,5790,1175,444
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),142,33034,23201,5312,461
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),20,3837,2643,290,424
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),35,7250,5044,1597,497
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),228,36876,25437,6449,452
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),41,4692,3022,392,424
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),83,8558,5790,2224,504
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),5667,33034,23201,22122,415
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),1: Peak AM (7am-10am),650,3837,2643,2290,387
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1399,7250,5044,4966,480
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6297,36876,25437,23955,447
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),724,4692,3022,2554,434
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave before Cumberland St,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1685,8558,5790,5724,501
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),23,33034,22257,20177,1739
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),23,36876,24105,22291,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),5,33034,22257,3787,1097
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5,7250,4962,960,1097
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),18,33034,22257,5312,517
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,3837,2311,290,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),22,36876,24105,6449,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),5794,33034,22257,22122,423
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),1: Peak AM (7am-10am),634,3837,2311,2290,391
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1438,7250,4962,4966,486
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6387,36876,24105,23955,454
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),671,4692,2589,2554,445
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette Ave DMF,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1684,8558,5734,5724,509
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),2634,33034,24079,20177,455
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),249,3837,2544,2033,485
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),641,7250,5367,4332,482
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3102,36876,26670,22291,446
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),293,4692,2914,2416,540
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),884,8558,6436,4948,456
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),185,33034,24079,3787,566
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),28,3837,2544,391,477
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),33,7250,5367,960,479
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),188,36876,26670,4116,629
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),51,4692,2914,480,505
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),36,8558,6436,1175,521
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),341,33034,24079,5312,541
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),28,3837,2544,290,534
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),110,7250,5367,1597,525
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),569,36876,26670,6449,538
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),62,4692,2914,392,534
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),211,8558,6436,2224,543
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),5534,33034,24079,22122,404
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),1: Peak AM (7am-10am),649,3837,2544,2290,382
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1346,7250,5367,4966,456
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6178,36876,26670,23955,436
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),697,4692,2914,2554,427
+Personal,,Lafayette/Ashland,yes,N/A,no,,Lafayette before St Felix St,81,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1613,8558,6436,5724,472
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),0: All Day (12am-12am),62,33034,25136,20177,1195
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,3837,2862,2033,N/A
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Fulton St beforw Franklin AVE,yes,105,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),8,7250,5488,4332,1074
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),0: All Day (12am-12am),57,36876,27958,22291,767
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Fulton St beforw Franklin AVE,yes,105,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),10,8558,6124,4948,703
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),0: All Day (12am-12am),74,33034,25136,3787,570
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,3837,2862,391,481
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Gates before Franklin Ave,yes,81,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),18,7250,5488,960,448
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),0: All Day (12am-12am),30,36876,27958,4116,591
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Gates before Franklin Ave,yes,81,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),10,8558,6124,1175,444
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),0: All Day (12am-12am),109,33034,25136,5312,548
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),1: Peak AM (7am-10am),16,3837,2862,290,429
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Greene before Franklin Ave,yes,82,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),18,7250,5488,1597,431
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),0: All Day (12am-12am),163,36876,27958,6449,581
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),30,4692,3408,392,429
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Greene before Franklin Ave,yes,82,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),47,8558,6124,2224,431
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),0: All Day (12am-12am),5745,33034,25136,22122,422
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),1: Peak AM (7am-10am),640,3837,2862,2290,384
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Lafayette before Franklin Ave,yes,80,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1429,7250,5488,4966,483
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6392,36876,27958,23955,451
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),699,4692,3408,2554,430
+Personal,,Lafayette/Ashland,yes,N/A,no,,LAfayette before Washington Ave,84,no,,Lafayette before Franklin Ave,yes,80,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1684,8558,6124,5724,504

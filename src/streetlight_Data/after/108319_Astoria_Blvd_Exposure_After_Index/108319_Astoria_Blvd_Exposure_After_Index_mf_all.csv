@@ -1,0 +1,147 @@
+Type of Travel,Origin Zone ID,Origin Zone Name,Origin Zone Is Pass-Through,Origin Zone Direction (degrees),Origin Zone is Bi-Direction,Middle Filter Zone ID,Middle Filter Zone Name,Middle Filter Zone Direction (degrees),Middle Filter Zone is Bi-Direction,Destination Zone ID,Destination Zone Name,Destination Zone Is Pass-Through,Destination Zone Direction (degrees),Destination Zone is Bi-Direction,Day Type,Day Part,Average Daily O-M-D Traffic (StL Index),Average Daily Origin Zone Traffic (StL Index),Average Daily Middle Filter Zone Traffic (StL Index),Average Daily Destination Zone Traffic (StL Index),Avg Trip Duration (sec)
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),20,100248,7538,41811,1059
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),1: Peak AM (7am-10am),2,12920,783,5436,1465
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),13,20310,2108,8865,1051
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),27,102205,8193,42552,1051
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),27,21740,2470,9253,1051
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),850,100248,7538,37942,574
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),1: Peak AM (7am-10am),49,12920,783,3997,307
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),382,20310,2108,10227,637
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),0: All Day (12am-12am),987,102205,8193,39364,616
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),65,14297,915,4470,304
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),516,21740,2470,10865,657
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),4,100248,7538,28175,1125
+Personal,,Astoria/77 St,yes,N/A,no,,23 Ave/Ditmars Blvd,80,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4,20310,2108,6727,1125
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/80 St,83,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),10,100248,4576,41811,1100
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/80 St,83,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),8,102205,4489,42552,1040
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/80 St,83,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),6,100248,4576,28175,1837
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/80 St,83,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),3,12920,344,3473,2431
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/80 St,83,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),5,102205,4489,28138,1244
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),184,100248,5434,41811,796
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),1: Peak AM (7am-10am),12,12920,545,5436,720
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),73,20310,1533,8865,813
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),184,102205,4968,42552,818
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),10,14297,512,5809,590
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),81,21740,1605,9253,887
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),4,100248,5434,37942,369
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4,20310,1533,10227,369
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),23,100248,5434,28175,1052
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),16,20310,1533,6727,1111
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),31,102205,4968,28138,1159
+Personal,,Astoria/77 St,yes,N/A,no,,31 Ave/99 St,82,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),21,21740,1605,7445,1162
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),19800,100248,41871,41811,310
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),1: Peak AM (7am-10am),2559,12920,5406,5436,260
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3761,20310,8900,8865,506
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),20141,102205,42524,42552,327
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2868,14297,5742,5809,266
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3750,21740,9296,9253,568
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),18,100248,41871,37942,291
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),6,20310,8900,10227,387
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),0: All Day (12am-12am),23,102205,42524,39364,368
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),12,21740,9296,10865,387
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),50,100248,41871,28175,776
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),9,12920,5406,3473,131
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),6,20310,8900,6727,488
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),66,102205,42524,28138,1031
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),13,14297,5742,3845,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/108 ST DMF,109,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6,21740,9296,7445,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),16401,100248,36988,41811,311
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),1: Peak AM (7am-10am),2010,12920,4250,5436,252
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3335,20310,8008,8865,495
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),16754,102205,36871,42552,325
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2286,14297,4696,5809,256
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3376,21740,8410,9253,541
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),5212,100248,36988,37942,260
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),1: Peak AM (7am-10am),647,12920,4250,3997,213
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),987,20310,8008,10227,431
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),0: All Day (12am-12am),5247,102205,36871,39364,274
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),767,14297,4696,4470,222
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1036,21740,8410,10865,510
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),405,100248,36988,28175,905
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),38,12920,4250,3473,905
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),130,20310,8008,6727,863
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),327,102205,36871,28138,990
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),8,14297,4696,3845,1496
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/80 St,102,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),149,21740,8410,7445,955
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),19572,100248,47052,41811,302
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),1: Peak AM (7am-10am),2548,12920,5942,5436,256
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3650,20310,9672,8865,482
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),19824,102205,47991,42552,315
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2850,14297,6507,5809,262
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3618,21740,10345,9253,540
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),5251,100248,47052,37942,242
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),1: Peak AM (7am-10am),656,12920,5942,3997,196
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),894,20310,9672,10227,375
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),0: All Day (12am-12am),5299,102205,47991,39364,249
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),761,14297,6507,4470,213
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),878,21740,10345,10865,417
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),198,100248,47052,28175,739
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),32,12920,5942,3473,890
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),54,20310,9672,6727,779
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),166,102205,47991,28138,873
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),6,14297,6507,3845,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Astoria Blvd/99 St,102,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),62,21740,10345,7445,850
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),50,100248,38123,41811,736
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,12920,3997,5436,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),29,20310,10252,8865,671
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),58,102205,39532,42552,706
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),40,21740,10863,9253,794
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),11888,100248,38123,37942,371
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),1: Peak AM (7am-10am),1254,12920,3997,3997,275
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3192,20310,10252,10227,553
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),0: All Day (12am-12am),12253,102205,39532,39364,401
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1414,14297,4479,4470,265
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),3525,21740,10863,10865,613
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),31,100248,38123,28175,1189
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),9,12920,3997,3473,292
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),10,20310,10252,6727,1351
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),40,102205,39532,28138,1273
+Personal,,Astoria/77 St,yes,N/A,no,,Ditmars Blvd/31 Ave DMF,153,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),22,21740,10863,7445,1108
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),2863,100248,17038,41811,258
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),1: Peak AM (7am-10am),457,12920,2060,5436,204
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),349,20310,3475,8865,421
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2794,102205,18049,42552,276
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),511,14297,2448,5809,224
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),276,21740,3825,9253,551
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),1390,100248,17038,37942,535
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),1: Peak AM (7am-10am),80,12920,2060,3997,298
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),557,20310,3475,10227,640
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),0: All Day (12am-12am),1599,102205,18049,39364,559
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),100,14297,2448,4470,362
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),663,21740,3825,10865,667
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),35,100248,17038,28175,1169
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),9,12920,2060,3473,636
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),8,20310,3475,6727,809
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),20,102205,18049,28138,1250
+Personal,,Astoria/77 St,yes,N/A,no,,GCP to 23 Ave/Ditmars,74,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),7,14297,2448,3845,347
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/108 St DMF,88,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),4,100248,28215,41811,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/108 St DMF,88,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),8,102205,28188,42552,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/108 St DMF,88,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),489,100248,28215,28175,1009
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/108 St DMF,88,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),52,12920,3462,3473,1007
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/108 St DMF,88,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),134,20310,6719,6727,920
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/108 St DMF,88,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),430,102205,28188,28138,1089
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/108 St DMF,88,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),37,14297,3817,3845,961
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/108 St DMF,88,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),151,21740,7448,7445,999
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),13,100248,29016,41811,1264
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),1: Peak AM (7am-10am),1,12920,2741,5436,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),28,102205,29890,42552,1264
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),2,14297,3125,5809,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),3,100248,29016,37942,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Ditmars DMF,yes,143,no,1: Weekday (Tu-Th),0: All Day (12am-12am),6,102205,29890,39364,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),51,100248,29016,28175,1240
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),7,12920,2741,3473,1286
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),14,20310,7692,6727,957
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),62,102205,29890,28138,1584
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),15,14297,3125,3845,1286
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/80 St,82,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),20,21740,8740,7445,N/A
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),0: All Day (12am-12am),13,100248,28481,41811,1120
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Astoria Blvd DMF,yes,108,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),3,20310,7072,8865,1293
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),0: All Day (12am-12am),19,102205,28430,42552,1120
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Astoria Blvd DMF,yes,108,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),7,21740,7871,9253,1293
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Ditmars DMF,yes,143,no,0: All Days (M-Su),0: All Day (12am-12am),4,100248,28481,37942,767
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),0: All Day (12am-12am),270,100248,28481,28175,1121
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),1: Peak AM (7am-10am),15,12920,3084,3473,1047
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Northern Blvd EB,yes,89,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),72,20310,7072,6727,897
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),0: All Day (12am-12am),219,102205,28430,28138,1215
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),21,14297,3376,3845,1000
+Personal,,Astoria/77 St,yes,N/A,no,,Northern Blvd/99 St,82,no,,Northern Blvd EB,yes,89,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),75,21740,7871,7445,1068

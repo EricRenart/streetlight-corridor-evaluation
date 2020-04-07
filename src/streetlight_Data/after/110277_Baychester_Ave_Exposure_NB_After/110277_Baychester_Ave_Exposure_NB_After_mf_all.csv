@@ -1,0 +1,54 @@
+Type of Travel,Origin Zone ID,Origin Zone Name,Origin Zone Is Pass-Through,Origin Zone Direction (degrees),Origin Zone is Bi-Direction,Middle Filter Zone ID,Middle Filter Zone Name,Middle Filter Zone Direction (degrees),Middle Filter Zone is Bi-Direction,Destination Zone ID,Destination Zone Name,Destination Zone Is Pass-Through,Destination Zone Direction (degrees),Destination Zone is Bi-Direction,Day Type,Day Part,Average Daily O-M-D Traffic (StL Index),Average Daily Origin Zone Traffic (StL Index),Average Daily Middle Filter Zone Traffic (StL Index),Average Daily Destination Zone Traffic (StL Index),Avg Trip Duration (sec)
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave DMF,343,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),0: All Day (12am-12am),2642,39165,6490,6997,329
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave DMF,343,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),1: Peak AM (7am-10am),410,5826,997,1056,302
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave DMF,343,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),511,8500,1193,1298,315
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave DMF,343,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2767,39396,6458,6959,335
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave DMF,343,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),507,7181,1198,1266,292
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave DMF,343,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),616,8894,1302,1407,332
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),0: All Day (12am-12am),2581,39165,7632,6997,318
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),1: Peak AM (7am-10am),409,5826,1269,1056,299
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),498,8500,1459,1298,310
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2691,39396,7815,6959,316
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),511,7181,1609,1266,290
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),589,8894,1562,1407,335
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),0: All Day (12am-12am),30,39165,7632,344,334
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),1: Peak AM (7am-10am),3,5826,1269,51,209
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),6,8500,1459,77,335
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),0: All Day (12am-12am),27,39396,7815,320,398
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4,7181,1609,73,250
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Pitman Ave,345,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6,8894,1562,72,331
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),0: All Day (12am-12am),2526,39165,7531,6997,307
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),1: Peak AM (7am-10am),397,5826,1072,1056,333
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),494,8500,1595,1298,312
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),0: All Day (12am-12am),2615,39396,7694,6959,303
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),481,7181,1325,1266,297
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),587,8894,1731,1407,329
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),0: All Day (12am-12am),32,39165,7531,344,379
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),1: Peak AM (7am-10am),3,5826,1072,51,209
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),6,8500,1595,77,335
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),0: All Day (12am-12am),24,39396,7694,320,365
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),4,7181,1325,73,250
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Baychester Ave/Strang Ave,346,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6,8894,1731,72,331
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave DMF,338,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),0: All Day (12am-12am),43,39165,345,344,428
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave DMF,338,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),1: Peak AM (7am-10am),4,5826,51,51,209
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave DMF,338,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),8,8500,75,77,375
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave DMF,338,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),0: All Day (12am-12am),40,39396,319,320,428
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave DMF,338,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),7,7181,73,73,250
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave DMF,338,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),8,8894,69,72,337
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Pitman Ave,344,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),0: All Day (12am-12am),13,39165,689,6997,612
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Pitman Ave,344,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5,8500,155,1298,837
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Pitman Ave,344,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),0: All Day (12am-12am),11,39396,675,6959,323
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Pitman Ave,344,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6,8894,170,1407,335
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Pitman Ave,344,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),0: All Day (12am-12am),10,39165,689,344,631
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Pitman Ave,344,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1,8500,155,77,350
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Pitman Ave,344,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),0: All Day (12am-12am),10,39396,675,320,474
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Pitman Ave,344,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),2,8894,170,72,350
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Strang Ave,342,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),0: All Day (12am-12am),6,39165,661,6997,801
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Strang Ave,342,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),1: Peak AM (7am-10am),1,5826,59,1056,383
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Strang Ave,342,no,,Baychester Ave NB,yes,342,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1,8500,176,1298,1253
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Strang Ave,342,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),0: All Day (12am-12am),8,39396,618,6959,341
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Strang Ave,342,no,,Baychester Ave NB,yes,342,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3,7181,67,1266,383
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Strang Ave,342,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),0: All Day (12am-12am),7,39165,661,344,470
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Strang Ave,342,no,,Wilder Ave NB,yes,339,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1,8500,176,77,350
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Strang Ave,342,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),0: All Day (12am-12am),9,39396,618,320,396
+Personal,,Baychester Ave/E233 St,yes,N/A,no,,Wilder Ave/Strang Ave,342,no,,Wilder Ave NB,yes,339,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),2,8894,180,72,350

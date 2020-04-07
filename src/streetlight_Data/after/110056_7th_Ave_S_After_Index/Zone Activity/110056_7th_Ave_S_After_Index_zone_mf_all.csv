@@ -1,0 +1,79 @@
+Type of Travel,Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index)
+Personal,Origin,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),196608
+Personal,Origin,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,0: All Days (M-Su),1: Peak AM (7am-10am),38630
+Personal,Origin,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),43124
+Personal,Origin,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,1: Weekday (Tu-Th),0: All Day (12am-12am),219836
+Personal,Origin,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),48618
+Personal,Origin,,7 Ave/W11 St/Greenwich Ave,yes,N/A,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),49950
+Personal,Middle Filter,,7 Ave DMF,yes,188,no,0: All Days (M-Su),0: All Day (12am-12am),94623
+Personal,Middle Filter,,7 Ave DMF,yes,188,no,0: All Days (M-Su),1: Peak AM (7am-10am),22354
+Personal,Middle Filter,,7 Ave DMF,yes,188,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),17096
+Personal,Middle Filter,,7 Ave DMF,yes,188,no,1: Weekday (Tu-Th),0: All Day (12am-12am),106562
+Personal,Middle Filter,,7 Ave DMF,yes,188,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),28836
+Personal,Middle Filter,,7 Ave DMF,yes,188,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),19793
+Personal,Middle Filter,,7 Ave S/W4 St/Christopher St,yes,205,no,0: All Days (M-Su),0: All Day (12am-12am),130111
+Personal,Middle Filter,,7 Ave S/W4 St/Christopher St,yes,205,no,0: All Days (M-Su),1: Peak AM (7am-10am),27447
+Personal,Middle Filter,,7 Ave S/W4 St/Christopher St,yes,205,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),27215
+Personal,Middle Filter,,7 Ave S/W4 St/Christopher St,yes,205,no,1: Weekday (Tu-Th),0: All Day (12am-12am),145545
+Personal,Middle Filter,,7 Ave S/W4 St/Christopher St,yes,205,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),34866
+Personal,Middle Filter,,7 Ave S/W4 St/Christopher St,yes,205,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),31286
+Personal,Middle Filter,,7th Ave SB past Waverly Pl,yes,204,no,0: All Days (M-Su),0: All Day (12am-12am),127060
+Personal,Middle Filter,,7th Ave SB past Waverly Pl,yes,204,no,0: All Days (M-Su),1: Peak AM (7am-10am),27130
+Personal,Middle Filter,,7th Ave SB past Waverly Pl,yes,204,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),26461
+Personal,Middle Filter,,7th Ave SB past Waverly Pl,yes,204,no,1: Weekday (Tu-Th),0: All Day (12am-12am),142245
+Personal,Middle Filter,,7th Ave SB past Waverly Pl,yes,204,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),34480
+Personal,Middle Filter,,7th Ave SB past Waverly Pl,yes,204,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),30386
+Personal,Middle Filter,,Greenwish Ave SB,yes,154,no,0: All Days (M-Su),0: All Day (12am-12am),19251
+Personal,Middle Filter,,Greenwish Ave SB,yes,154,no,0: All Days (M-Su),1: Peak AM (7am-10am),2986
+Personal,Middle Filter,,Greenwish Ave SB,yes,154,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),4750
+Personal,Middle Filter,,Greenwish Ave SB,yes,154,no,1: Weekday (Tu-Th),0: All Day (12am-12am),21301
+Personal,Middle Filter,,Greenwish Ave SB,yes,154,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),3843
+Personal,Middle Filter,,Greenwish Ave SB,yes,154,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),5424
+Personal,Middle Filter,,MacDougal St DMF,yes,213,no,0: All Days (M-Su),0: All Day (12am-12am),26782
+Personal,Middle Filter,,MacDougal St DMF,yes,213,no,0: All Days (M-Su),1: Peak AM (7am-10am),5443
+Personal,Middle Filter,,MacDougal St DMF,yes,213,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5549
+Personal,Middle Filter,,MacDougal St DMF,yes,213,no,1: Weekday (Tu-Th),0: All Day (12am-12am),29611
+Personal,Middle Filter,,MacDougal St DMF,yes,213,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),6996
+Personal,Middle Filter,,MacDougal St DMF,yes,213,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6294
+Personal,Middle Filter,,MacDougal St/Washington Pl,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),9758
+Personal,Middle Filter,,MacDougal St/Washington Pl,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),1109
+Personal,Middle Filter,,MacDougal St/Washington Pl,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),2133
+Personal,Middle Filter,,MacDougal St/Washington Pl,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),10155
+Personal,Middle Filter,,MacDougal St/Washington Pl,yes,214,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1367
+Personal,Middle Filter,,MacDougal St/Washington Pl,yes,214,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),2423
+Personal,Middle Filter,,W11 St WB,yes,259,no,0: All Days (M-Su),0: All Day (12am-12am),3605
+Personal,Middle Filter,,W11 St WB,yes,259,no,0: All Days (M-Su),1: Peak AM (7am-10am),415
+Personal,Middle Filter,,W11 St WB,yes,259,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),754
+Personal,Middle Filter,,W11 St WB,yes,259,no,1: Weekday (Tu-Th),0: All Day (12am-12am),3713
+Personal,Middle Filter,,W11 St WB,yes,259,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),539
+Personal,Middle Filter,,W11 St WB,yes,259,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),861
+Personal,Middle Filter,,Washington St DMF,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),10436
+Personal,Middle Filter,,Washington St DMF,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),1425
+Personal,Middle Filter,,Washington St DMF,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),2319
+Personal,Middle Filter,,Washington St DMF,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),11437
+Personal,Middle Filter,,Washington St DMF,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1875
+Personal,Middle Filter,,Washington St DMF,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),2639
+Personal,Middle Filter,,Washington St/W10 St,yes,185,no,0: All Days (M-Su),0: All Day (12am-12am),7528
+Personal,Middle Filter,,Washington St/W10 St,yes,185,no,0: All Days (M-Su),1: Peak AM (7am-10am),1008
+Personal,Middle Filter,,Washington St/W10 St,yes,185,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),1422
+Personal,Middle Filter,,Washington St/W10 St,yes,185,no,1: Weekday (Tu-Th),0: All Day (12am-12am),7669
+Personal,Middle Filter,,Washington St/W10 St,yes,185,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1161
+Personal,Middle Filter,,Washington St/W10 St,yes,185,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),1602
+Personal,Destination,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),0: All Day (12am-12am),95254
+Personal,Destination,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),1: Peak AM (7am-10am),22337
+Personal,Destination,,Houston St/Varick St,yes,187,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),17219
+Personal,Destination,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),0: All Day (12am-12am),107235
+Personal,Destination,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),28807
+Personal,Destination,,Houston St/Varick St,yes,187,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),19942
+Personal,Destination,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),0: All Day (12am-12am),26830
+Personal,Destination,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),1: Peak AM (7am-10am),5451
+Personal,Destination,,McDougal St/Houston St,yes,214,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),5542
+Personal,Destination,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),0: All Day (12am-12am),29640
+Personal,Destination,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),7010
+Personal,Destination,,McDougal St/Houston St,yes,214,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),6269
+Personal,Destination,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),0: All Day (12am-12am),10407
+Personal,Destination,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),1: Peak AM (7am-10am),1430
+Personal,Destination,,Washonton St/Houston St,yes,189,no,0: All Days (M-Su),2: Peak PM (4pm-7pm),2325
+Personal,Destination,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),0: All Day (12am-12am),11394
+Personal,Destination,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),1: Peak AM (7am-10am),1863
+Personal,Destination,,Washonton St/Houston St,yes,189,no,1: Weekday (Tu-Th),2: Peak PM (4pm-7pm),2641

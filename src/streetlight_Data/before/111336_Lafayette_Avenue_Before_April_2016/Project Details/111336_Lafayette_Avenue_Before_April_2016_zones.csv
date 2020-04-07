@@ -1,0 +1,18 @@
+Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Fingerprint1,Fingerprint2
+Origin,,Lafayette/Ashland,yes,N/A,no,0,910720968415492
+Middle Filter,,Fulton St before Washington Ave,yes,103,no,0,910832637534428
+Middle Filter,,Fulton St DMF,yes,104,no,0,910890619580628
+Middle Filter,,Gates Ave DMF,yes,80,no,0,910886324644064
+Middle Filter,,Gates before Washington Ave,yes,80,no,0,910830490063066
+Middle Filter,,Greene Ave after Fulton St,yes,81,no,0,910768213047510
+Middle Filter,,Greene Ave DMF,yes,81,no,0,910882029693092
+Middle Filter,,Greene before Washignton Ave,yes,81,no,0,910828342595770
+Middle Filter,,Hanson Pl/Greene Ave before St Felix St,yes,82,no,0,910727410852052
+Middle Filter,,Lafayette Ave before Cumberland St,yes,81,no,0,910766065576152
+Middle Filter,,Lafayette Ave DMF,yes,81,no,0,910879882221784
+Middle Filter,,Lafayette before St Felix St,yes,81,no,0,910725263382730
+Middle Filter,,LAfayette before Washington Ave,yes,84,no,0,910824047640786
+Destination,,Fulton St beforw Franklin AVE,yes,105,no,0,910912094413012
+Destination,,Gates before Franklin Ave,yes,81,no,0,910903504515286
+Destination,,Greene before Franklin Ave,yes,82,no,0,910899209564318
+Destination,,Lafayette before Franklin Ave,yes,80,no,0,910899209576634
