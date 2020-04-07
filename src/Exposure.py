@@ -1,5 +1,4 @@
 import pandas as pd
-import openpyxl as opxl
 import os
 from tabulate import tabulate
 from tkinter.filedialog import askopenfilename, askdirectory, asksaveasfile
@@ -37,24 +36,24 @@ after_dataframe = pd.read_csv(after_path)
 before_dataframe_weekday = before_dataframe[before_dataframe[HEADER_DAY_TYPE] == "1: Weekday (Tu-Th)"]
 
 # get the weekday AM and PM OMD traffic
-OMD_traffic_weekday = before_dataframe_weekday[[HEADER_DEST,HEADER_MF,HEADER_DAY_PART,HEADER_DAY_TYPE]]
+OMD_traffic_weekday = before_dataframe_weekday[[HEADER_DEST,HEADER_MF,HEADER_DAY_PART,HEADER_DAY_TYPE,HEADER_OMD]]
 OMD_traffic_AM = OMD_traffic_weekday[OMD_traffic_weekday[HEADER_DAY_PART] == "1: Peak AM (7am-10am)"]
 OMD_traffic_PM = OMD_traffic_weekday[OMD_traffic_weekday[HEADER_DAY_PART] == "2: Peak PM (4pm-7pm)"]
 print('AM OMD TRAFFIC')
-prettyprint(OMD_traffic_AM)
+print(tabulate(OMD_traffic_AM))
 print('PM OMD TRAFFIC')
-prettyprint(OMD_traffic_PM)
+print(tabulate(OMD_traffic_PM))
 
 # sum the DMF traffic for each destination
 # get all rows which contain DMF
 am_dmfs = OMD_traffic_AM[OMD_traffic_AM[HEADER_MF].str.contains("DMF")]
 pm_dmfs = OMD_traffic_PM[OMD_traffic_PM[HEADER_MF].str.contains("DMF")]
 
-print(am_dmfs)
-print(pm_dmfs)
+print(tabulate(am_dmfs))
+print(tabulate(pm_dmfs))
 
-# for each destination add the corresponding dmf's
-
+am_dmf_sum = am_dmfs.groupby(HEADER_MF).sum()
+print(tabulate(am_dmf_sum))
 
 # calculate exposure: ExpIndex = MF_i/DMF_i
 # do the same for the "After" condition
