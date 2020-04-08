@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import os
 from tabulate import tabulate
 from tkinter.filedialog import askopenfilename, askdirectory, asksaveasfile
@@ -110,5 +111,6 @@ summary_pm = pd.DataFrame([exposure_pm[HEADER_DEST],exposure_pm[HEADER_MF],expos
 summary_pm_sorted = summary_pm.sort_values(HEADER_DEST)
 
 # write out the results as a csv
-summary_am_sorted.to_csv("exposure_am.csv")
-summary_pm_sorted.to_csv("exposure_pm.csv")
+proj_name = input("What is this project's name? :")
+summary_am_sorted.to_csv(proj_name+"_exposure_am.csv")
+summary_pm_sorted.to_csv(proj_name+"_exposure_pm.csv")
